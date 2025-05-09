@@ -1,0 +1,588 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,71.372,2,0.3,-1.0196
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,3083.43,7,0.5,-1665.0522
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,9.618,2,0.7,-7.0532
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,124.2,3,0.2,15.525
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Envelopes,3.264,2,0.2,1.1016
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,86.304,6,0.2,9.7092
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,6.858,6,0.7,-5.715
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,15.76,2,0.2,3.546
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,82.8,2,0.2,10.35
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,54.384,2,0.2,1.3596
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,2.946,2,0.7,-2.2586
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,16.056,3,0.2,5.8203
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,11.648,2,0.2,4.0768
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,18.176,4,0.2,5.9072
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,59.712,6,0.2,5.9712
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Labels,24.84,3,0.2,8.694
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Art,99.136,4,0.2,8.6744
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,290.898,3,0.4,-67.8762
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,54.224,2,0.2,3.389
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,786.744,4,0.3,-258.5016
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Labels,100.24,10,0.2,33.831
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,37.764,6,0.7,-27.6936
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,82.8,2,0.4,-20.7
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,20.724,2,0.7,-13.816
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,4.896,3,0.7,-3.4272
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,17.856,4,0.2,1.116
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,509.97,10,0.7,-407.976
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Fasteners,30.992,13,0.2,10.0724
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,71.928,12,0.4,8.3916
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Machines,482.34,4,0.7,-337.638
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,2.96,1,0.2,0.777
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,36.336,3,0.2,-7.2672
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Supplies,666.248,1,0.2,-149.9058
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,52.512,6,0.2,19.692
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Supplies,11.632,2,0.2,1.0178
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,143.982,3,0.4,-28.7964
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,494.376,4,0.4,-115.3544
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Supplies,5.84,2,0.2,0.73
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,3.282,2,0.7,-2.6256
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,21.168,9,0.2,2.3814
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,55.188,2,0.4,-10.1178
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,8.448,2,0.2,2.64
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,728.946,9,0.4,-157.9383
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Art,198.272,8,0.2,17.3488
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Labels,47.36,4,0.2,17.76
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Envelopes,200.984,7,0.2,62.8075
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Labels,97.696,4,0.2,31.7512
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Art,2.696,1,0.2,0.8088
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Binders,18.588,2,0.7,-13.6312
+First Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Binders,4.896,3,0.7,-3.4272
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,129.92,5,0.2,21.112
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,5.344,1,0.2,1.8704
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,41.472,8,0.2,14.5152
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,3.168,3,0.7,-2.4288
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,1228.465,5,0.3,0.0
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,31.086,3,0.7,-22.7964
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,335.52,4,0.2,117.432
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Labels,15.936,4,0.2,5.1792
+Standard Class,Corporate,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,Binders,44.91,6,0.7,-35.928
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,1141.47,5,0.7,-760.98
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,280.782,3,0.4,-46.797
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,5.892,4,0.7,-4.1244
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,252.0,5,0.2,53.55
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,12.192,3,0.2,4.1148
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,45.056,8,0.2,15.2064
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,29.718,6,0.7,-21.7932
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Appliances,447.696,2,0.2,33.5772
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,516.488,7,0.2,-12.9122
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,1007.232,6,0.2,75.5424
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,2065.32,12,0.4,-619.596
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,25.344,6,0.2,7.92
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,25.472,4,0.2,7.6416
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,127.104,6,0.2,28.5984
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,124.2,3,0.4,-31.05
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,18.588,2,0.7,-13.6312
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,30.072,3,0.2,10.1493
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,6.208,2,0.2,2.1728
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,168.464,2,0.2,-29.4812
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,6.72,2,0.2,2.436
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,282.888,9,0.2,56.5776
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Fasteners,4.416,3,0.2,1.6008
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,25.176,4,0.7,-18.4624
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,124.608,4,0.2,-23.364
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,7.56,3,0.2,2.646
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,141.372,2,0.3,-48.4704
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,3.036,2,0.7,-2.3276
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,4.503,1,0.7,-3.6024
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,4.672,1,0.2,1.5768
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,95.88,3,0.2,28.764
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,17.024,2,0.2,1.7024
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,258.696,3,0.2,64.674
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,1931.958,7,0.4,-386.3916
+Standard Class,Home Office,United States,Chester,Pennsylvania,19013,East,Office Supplies,Art,5.248,2,0.2,0.5904
+Standard Class,Home Office,United States,Chester,Pennsylvania,19013,East,Technology,Phones,35.91,3,0.4,-8.379
+Standard Class,Home Office,United States,Chester,Pennsylvania,19013,East,Furniture,Furnishings,6.696,1,0.2,0.5022
+Standard Class,Home Office,United States,Chester,Pennsylvania,19013,East,Furniture,Furnishings,43.872,2,0.2,11.5164
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,14.2,1,0.2,3.3725
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,51.072,6,0.2,5.1072
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Art,123.256,7,0.2,9.2442
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,23.68,4,0.2,7.4
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,309.576,4,0.4,-56.7556
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Supplies,10.304,1,0.2,-2.1896
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,154.764,3,0.4,-36.1116
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,116.784,2,0.2,21.897
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,2.502,3,0.7,-1.7514
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Art,6.848,2,0.2,0.5992
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Labels,5.04,2,0.2,1.764
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Chairs,63.686,1,0.3,-9.098
+Standard Class,Consumer,United States,Allentown,Pennsylvania,18103,East,Office Supplies,Art,4.16,2,0.2,0.364
+Standard Class,Consumer,United States,Allentown,Pennsylvania,18103,East,Furniture,Furnishings,11.648,2,0.2,3.3488
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Envelopes,9.344,1,0.2,3.504
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,79.36,5,0.2,9.92
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,11.352,3,0.2,4.1151
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,83.976,3,0.2,-13.6461
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,35.36,2,0.2,-3.094
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Fasteners,3.168,2,0.2,-0.7128
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,121.104,6,0.7,-100.92
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,45.894,1,0.4,-9.1788
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,677.58,5,0.4,-158.102
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,13.896,3,0.7,-9.264
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,64.784,1,0.2,-14.5764
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,32.382,3,0.4,4.3176
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,42.368,2,0.2,8.4736
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Machines,399.54,4,0.7,-559.356
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Appliances,99.28,2,0.2,12.41
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,1.188,2,0.7,-0.99
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,7.518,2,0.7,-5.7638
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,10.368,2,0.2,3.6288
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,310.88,2,0.2,23.316
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,853.092,6,0.4,-227.4912
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,11.61,2,0.7,-9.288
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Appliances,434.352,3,0.2,43.4352
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Appliances,3.552,2,0.2,0.444
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Appliances,88.832,4,0.2,7.7728
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,20.736,4,0.2,7.2576
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,7.168,2,0.2,0.9856
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,11.168,2,0.2,-2.5128
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,442.4,7,0.2,-55.3
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Art,19.536,3,0.2,4.884
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,5.607,1,0.7,-4.2987
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Supplies,4663.736,7,0.2,-1049.3406
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,79.984,2,0.2,22.9954
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,31.104,6,0.2,10.8864
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,78.256,2,0.2,-17.6076
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,217.056,7,0.2,78.6828
+Standard Class,Corporate,United States,Reading,Pennsylvania,19601,East,Office Supplies,Storage,15.008,2,0.2,1.5008
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,4.956,4,0.7,-3.7996
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,289.8,7,0.2,36.225
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,2.502,3,0.7,-2.0016
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,6.48,4,0.7,-4.752
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,341.488,8,0.3,-73.176
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,11.12,5,0.2,0.834
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,25.344,6,0.2,3.4848
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,1.941,1,0.7,-1.294
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Envelopes,104.68,5,0.2,35.3295
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,62.958,7,0.4,9.4437
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,86.376,3,0.2,1.0797
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,64.944,3,0.2,6.4944
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,20.736,4,0.2,7.2576
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,152.991,3,0.7,-122.3928
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Fasteners,10.584,7,0.2,-2.3814
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,94.92,4,0.4,15.82
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,30.48,6,0.2,9.906
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,23.988,2,0.4,-4.7976
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Fasteners,16.688,7,0.2,5.4236
+Standard Class,Corporate,United States,York,Pennsylvania,17403,East,Furniture,Chairs,422.058,3,0.3,-18.0882
+Standard Class,Corporate,United States,York,Pennsylvania,17403,East,Office Supplies,Binders,38.088,4,0.7,-27.9312
+Standard Class,Corporate,United States,York,Pennsylvania,17403,East,Office Supplies,Storage,254.352,6,0.2,-50.8704
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,5.232,1,0.2,1.7004
+Standard Class,Consumer,United States,Lancaster,Pennsylvania,17602,East,Furniture,Furnishings,20.104,1,0.2,1.7591
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,54.816,3,0.2,17.8152
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,494.982,3,0.4,-115.4958
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,547.136,4,0.2,-68.392
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Fasteners,5.68,2,0.2,1.917
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,492.835,5,0.3,-14.081
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,1801.632,6,0.2,-337.806
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,143.952,3,0.2,14.3952
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,5.346,3,0.7,-4.455
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,359.97,5,0.4,-71.994
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,350.352,4,0.4,-140.1408
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,10.332,3,0.7,-7.5768
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,31.155,5,0.7,-23.8855
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,8.928,2,0.2,0.6696
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,34.384,1,0.2,3.8682
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,1924.16,8,0.2,312.676
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,23.988,2,0.4,-15.992
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,36.048,3,0.2,-0.9012
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,64.784,1,0.2,-12.9568
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Fasteners,15.8,5,0.2,2.37
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,14.368,2,0.2,3.9512
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,70.448,7,0.2,12.3284
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,188.552,7,0.3,-2.6936
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,20.736,4,0.2,7.2576
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,43.296,2,0.2,4.3296
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Envelopes,24.896,4,0.2,8.4024
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,3.984,1,0.2,0.6474
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,95.968,4,0.2,28.7904
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Machines,206.991,3,0.7,-172.4925
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Appliances,44.416,2,0.2,3.8864
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,9.006,2,0.7,-7.2048
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,254.352,3,0.2,0.0
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,20.736,4,0.2,7.2576
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,258.528,2,0.4,-47.3968
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,18.704,7,0.2,2.338
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,1.504,1,0.2,0.1692
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,34.848,2,0.2,6.534
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,60.312,3,0.2,5.2773
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,281.904,2,0.2,10.5714
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Envelopes,201.432,3,0.2,67.9833
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,50.997,1,0.7,-40.7976
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,76.792,1,0.2,-16.3183
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,539.964,6,0.4,-107.9928
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,60.312,3,0.2,5.2773
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,1.944,3,0.7,-1.4256
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,24.048,9,0.2,7.2144
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,40.032,6,0.2,15.012
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,84.784,2,0.2,-16.9568
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,71.976,3,0.2,19.7934
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,22.512,3,0.2,2.2512
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,3.444,2,0.7,-2.7552
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,538.194,2,0.7,-412.6154
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,47.984,2,0.2,14.3952
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,7.476,1,0.7,-5.9808
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Art,2.624,1,0.2,0.4264
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,64.704,6,0.2,-4.8528
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,17.472,3,0.2,5.0232
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,135.516,1,0.4,-31.6204
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,12.448,2,0.2,3.89
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,657.93,5,0.3,-93.99
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,16.448,2,0.2,5.5512
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,36.784,2,0.2,10.5754
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,9.555,5,0.7,-7.3255
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Chairs,127.372,2,0.3,-30.9332
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,47.952,3,0.2,16.1838
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,82.368,2,0.2,-19.5624
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,269.982,3,0.4,40.4973
+First Class,Corporate,United States,Altoona,Pennsylvania,16602,East,Office Supplies,Binders,4.419,3,0.7,-3.3879
+First Class,Corporate,United States,Altoona,Pennsylvania,16602,East,Office Supplies,Art,16.032,6,0.2,2.2044
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,47.984,2,0.2,-1.1996
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Appliances,98.112,7,0.2,18.396
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,563.808,4,0.2,21.1428
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,10.428,4,0.7,-6.952
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,547.136,4,0.2,-68.392
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,14.85,5,0.4,-3.2175
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,41.988,2,0.4,-9.7972
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,7.584,1,0.2,2.37
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Bookcases,352.45,5,0.5,-211.47
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,5.472,3,0.2,1.6416
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,47.984,2,0.2,13.1956
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,7.872,3,0.2,0.8856
+Standard Class,Consumer,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,Supplies,286.344,3,0.2,-64.4274
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,8.448,2,0.2,2.64
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,39.296,4,0.2,3.9296
+Standard Class,Consumer,United States,Chester,Pennsylvania,19013,East,Furniture,Chairs,170.058,3,0.3,-4.8588
+Standard Class,Consumer,United States,Chester,Pennsylvania,19013,East,Technology,Phones,82.782,3,0.4,-15.1767
+Standard Class,Consumer,United States,Chester,Pennsylvania,19013,East,Furniture,Chairs,853.93,5,0.3,0.0
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,4.224,3,0.2,1.4784
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Tables,409.272,2,0.4,-81.8544
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,55.44,11,0.2,18.018
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,20.928,4,0.2,6.8016
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,1801.632,6,0.2,-337.806
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Tables,67.176,1,0.4,-20.1528
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,39.992,1,0.2,7.4985
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,19.04,4,0.2,-1.428
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,37.392,3,0.2,2.337
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,79.12,5,0.2,13.846
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,29.24,5,0.2,9.8685
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,4.896,3,0.2,1.6524
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,47.984,2,0.2,0.5998
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,26.064,6,0.7,-19.9824
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,394.816,4,0.2,93.7688
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,18.192,4,0.7,-14.5536
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,11.352,3,0.2,4.1151
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Labels,20.808,9,0.2,7.0227
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,9.408,7,0.2,0.7056
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,11.673,3,0.7,-7.782
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,53.982,3,0.4,-10.7964
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Chairs,172.186,2,0.3,-46.7362
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,69.008,2,0.2,12.0764
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,34.8,3,0.2,2.175
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,38.976,3,0.2,-2.436
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,128.058,3,0.3,-23.7822
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,631.176,4,0.7,-462.8624
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,25.632,3,0.2,3.8448
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Labels,23.616,8,0.2,7.9704
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,59.904,2,0.2,14.2272
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Appliances,23.696,2,0.2,6.5164
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,7.968,2,0.2,2.8884
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Appliances,18.2,7,0.2,2.0475
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,27.552,3,0.2,-0.3444
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,844.116,6,0.3,-36.1764
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,76.752,3,0.2,-9.594
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,15.008,2,0.2,1.5008
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,241.92,4,0.4,-56.448
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Bookcases,163.88,4,0.5,-81.94
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,3.486,2,0.7,-2.7888
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Fasteners,10.584,7,0.2,-2.3814
+Standard Class,Consumer,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,Binders,5.715,5,0.7,-4.7625
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,0.852,1,0.7,-0.5964
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,1.908,2,0.7,-1.5264
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,39.594,1,0.4,-7.2589
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,91.008,9,0.2,19.3392
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,62.808,3,0.2,21.1977
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,380.058,3,0.3,-21.7176
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,1199.976,4,0.4,179.9964
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,48.576,3,0.2,9.7152
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,18.264,3,0.2,6.1641
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,34.656,2,0.2,5.6316
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,81.552,2,0.2,8.1552
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,227.136,4,0.2,-42.588
+Standard Class,Corporate,United States,Lancaster,Pennsylvania,17602,East,Technology,Phones,89.988,2,0.4,-14.998
+Standard Class,Corporate,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,Paper,229.544,7,0.2,83.2097
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,9.522,1,0.7,-6.9828
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,791.964,6,0.4,-131.994
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,4.923,3,0.7,-3.9384
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Envelopes,24.4,2,0.2,7.93
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,99.846,9,0.7,-83.205
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,466.158,7,0.4,-93.2316
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,10.312,1,0.2,-1.289
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,2.556,3,0.7,-1.7892
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,40.032,6,0.2,12.51
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,16.776,3,0.2,5.0328
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,52.512,6,0.2,19.692
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,186.912,6,0.2,-35.046
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,10.048,4,0.2,3.14
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,3.304,1,0.2,1.0738
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,748.752,8,0.4,-162.2296
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Fasteners,12.576,4,0.2,4.0872
+Second Class,Corporate,United States,Bethlehem,Pennsylvania,18018,East,Furniture,Chairs,99.372,2,0.3,-7.098
+Second Class,Corporate,United States,Bethlehem,Pennsylvania,18018,East,Furniture,Furnishings,33.568,2,0.2,-5.4548
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,45.528,3,0.2,15.9348
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,348.488,7,0.2,117.6147
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,172.736,4,0.2,-30.2288
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,358.2,3,0.4,41.79
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,545.916,14,0.4,72.7888
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,280.782,3,0.4,-60.8361
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,31.984,2,0.2,1.1994
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,8.384,1,0.2,0.7336
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Art,6.848,2,0.2,0.7704
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,7.656,4,0.7,-6.1248
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,3.312,1,0.2,0.6624
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Appliances,20.136,3,0.2,1.2585
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Envelopes,8.856,3,0.2,2.8782
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,859.2,4,0.4,-186.16
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,239.96,10,0.3,-10.284
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,54.768,2,0.2,6.846
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,13.392,3,0.2,3.1806
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,23.92,5,0.2,8.671
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,255.968,4,0.2,-28.7964
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,815.292,9,0.4,-339.705
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,7.968,2,0.2,2.8884
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Art,4.672,1,0.2,0.584
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,104.58,6,0.7,-80.178
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,11.736,3,0.2,1.0269
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Bookcases,87.21,3,0.5,-45.3492
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,15.552,3,0.2,5.4432
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,683.988,2,0.4,-113.998
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,13.392,3,0.2,1.0044
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,16.776,3,0.2,4.8231
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,527.92,2,0.2,85.787
+Second Class,Corporate,United States,Reading,Pennsylvania,19601,East,Furniture,Furnishings,23.968,2,0.2,7.7896
+Second Class,Corporate,United States,Reading,Pennsylvania,19601,East,Furniture,Bookcases,521.96,4,0.5,-250.5408
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,20.544,6,0.2,6.42
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,27.968,2,0.2,6.992
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Labels,23.904,6,0.2,7.7688
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Labels,17.544,3,0.2,5.9211
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,314.532,2,0.4,-83.8752
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,51.968,2,0.2,10.3936
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,51.336,3,0.2,5.7753
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,332.704,1,0.2,33.2704
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,42.408,3,0.2,9.5418
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Art,106.8,10,0.2,10.68
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,329.988,2,0.4,-76.9972
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,71.376,3,0.2,-4.461
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Envelopes,57.576,3,0.2,21.591
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,2.412,1,0.7,-2.01
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,83.92,5,0.2,-13.637
+First Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Labels,4.928,2,0.2,1.7248
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,108.576,4,0.4,-25.3344
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Fasteners,5.984,2,0.2,-1.3464
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Copiers,8399.976,4,0.4,1119.9968
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,6.294,1,0.7,-4.196
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,122.382,3,0.4,-24.4764
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,61.96,4,0.5,-53.2856
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Furnishings,103.936,4,0.2,16.8896
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,19.136,4,0.2,5.98
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,332.832,4,0.2,-24.9624
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Labels,10.08,2,0.2,3.276
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,59.994,1,0.4,-12.9987
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,5.715,5,0.7,-4.7625
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,9.42,5,0.7,-7.85
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,20.096,4,0.2,3.0144
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Supplies,37.752,3,0.2,4.2471
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,138.588,1,0.4,-34.647
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,259.92,5,0.2,-25.992
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,20.736,4,0.2,7.2576
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,3.882,2,0.7,-2.588
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Machines,12.585,1,0.7,-18.0385
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,113.372,2,0.3,-29.1528
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,18.312,4,0.7,-12.208
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,127.936,8,0.2,4.7976
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Machines,241.17,2,0.7,-168.819
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,24.588,2,0.7,-18.0312
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,13.494,1,0.4,-2.249
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,23.988,2,0.4,-13.993
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,31.984,2,0.2,1.1994
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,41.584,2,0.2,4.6782
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,599.97,5,0.4,69.9965
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,198.744,4,0.3,-14.196
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Supplies,9.184,2,0.2,1.148
+First Class,Corporate,United States,Chester,Pennsylvania,19013,East,Office Supplies,Binders,8.595,5,0.7,-6.303
+First Class,Corporate,United States,Chester,Pennsylvania,19013,East,Office Supplies,Supplies,190.896,2,0.2,-42.9516
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,6.57,3,0.7,-5.037
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,776.85,5,0.4,-181.265
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,12.294,1,0.7,-8.6058
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Tables,154.764,3,0.4,-46.4292
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,43.28,1,0.2,3.246
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,2.202,2,0.7,-1.5414
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,9.396,3,0.7,-7.5168
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,274.491,3,0.7,-228.7425
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,123.92,5,0.2,38.725
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,1319.8,5,0.2,214.4675
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Technology,Machines,341.991,3,0.7,-319.1916
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,4416.174,9,0.3,-630.882
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,32.7,5,0.4,-6.54
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,31.68,4,0.2,11.088
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,77.24,5,0.2,7.724
+Standard Class,Corporate,United States,Lancaster,Pennsylvania,17602,East,Technology,Phones,61.542,1,0.4,-13.3341
+Standard Class,Corporate,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,Binders,81.438,7,0.7,-65.1504
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,16.52,5,0.2,5.369
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,251.964,6,0.4,-50.3928
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Tables,523.764,3,0.4,-192.0468
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,340.182,3,0.4,-73.7061
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Fasteners,12.672,8,0.2,2.6928
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,6.888,2,0.7,-5.0512
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,32.544,2,0.2,-7.7292
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,347.802,7,0.3,-24.843
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,386.68,2,0.3,-5.524
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,379.96,5,0.2,47.495
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,539.91,3,0.4,-116.9805
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,41.24,5,0.2,13.9185
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,51.897,1,0.7,-41.5176
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,552.56,5,0.2,-138.14
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,23.16,5,0.7,-15.44
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Storage,126.08,2,0.2,-28.368
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Machines,449.1,3,0.7,-643.71
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Appliances,195.104,4,0.2,21.9492
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,36.672,3,0.2,6.4176
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,3.576,4,0.7,-2.8608
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,147.184,2,0.2,-29.4368
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,445.802,7,0.3,-108.2662
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Bookcases,349.965,7,0.5,-216.9783
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,22.32,5,0.2,5.301
+First Class,Consumer,United States,Lancaster,Pennsylvania,17602,East,Furniture,Chairs,170.786,1,0.3,0.0
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,422.856,3,0.2,15.8571
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,58.248,9,0.2,11.6496
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,71.246,2,0.3,-19.3382
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,7.872,3,0.2,0.5904
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,887.271,3,0.3,-63.3765
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,40.776,3,0.2,0.5097
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,13.698,3,0.7,-9.5886
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Accessories,40.776,3,0.2,0.5097
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,4.842,3,0.7,-3.3894
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,324.744,3,0.2,-77.1267
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Tables,337.176,2,0.4,-118.0116
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,344.372,4,0.3,-93.4724
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,519.792,4,0.4,-112.6216
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,31.176,3,0.2,-5.4558
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,2.724,2,0.7,-1.9068
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,254.352,3,0.2,0.0
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,3.762,3,0.7,-2.7588
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,10.272,3,0.2,3.21
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,126.624,6,0.2,41.1528
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,5.97,5,0.7,-4.577
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,21.184,1,0.2,4.7664
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Appliances,41.376,6,0.2,3.1032
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,2.655,1,0.7,-1.8585
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,215.544,4,0.3,-58.5048
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Envelopes,30.672,3,0.2,9.585
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,1079.976,4,0.4,125.9972
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,11.264,8,0.2,1.2672
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,284.08,10,0.2,24.857
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,18.496,4,0.2,6.7048
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Tables,1252.704,8,0.4,-480.2032
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,110.97,5,0.4,-24.0435
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,743.988,2,0.4,-123.998
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,32.448,2,0.2,7.3008
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,26.388,4,0.7,-17.592
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Tables,373.47,5,0.4,-112.041
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,64.2,5,0.7,-44.94
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Fasteners,8.0,2,0.2,2.8
+Second Class,Consumer,United States,Reading,Pennsylvania,19601,East,Furniture,Furnishings,303.92,5,0.2,-30.392
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,431.94,2,0.4,-71.99
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,2.043,1,0.7,-1.4982
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Technology,Phones,68.238,3,0.4,-12.5103
+Standard Class,Corporate,United States,York,Pennsylvania,17403,East,Office Supplies,Binders,37.896,4,0.7,-29.0536
+Standard Class,Corporate,United States,York,Pennsylvania,17403,East,Office Supplies,Paper,65.584,2,0.2,23.7742
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Art,16.656,3,0.2,3.3312
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,18.312,4,0.7,-12.208
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,25.92,5,0.2,9.072
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Art,8.016,3,0.2,1.002
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,33.568,2,0.2,1.6784
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,422.625,7,0.3,0.0
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,11.088,7,0.7,-8.1312
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,51.968,2,0.2,-10.3936
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Art,4.768,2,0.2,0.4768
+First Class,Consumer,United States,Bethlehem,Pennsylvania,18018,East,Furniture,Bookcases,177.45,5,0.5,-78.078
+First Class,Consumer,United States,Bethlehem,Pennsylvania,18018,East,Office Supplies,Binders,1369.764,6,0.7,-913.176
+First Class,Consumer,United States,Bethlehem,Pennsylvania,18018,East,Office Supplies,Appliances,9.48,3,0.2,0.711
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Bookcases,130.98,2,0.5,-89.0664
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,16.52,5,0.2,1.652
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,8.016,3,0.2,1.1022
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Appliances,3.552,2,0.2,0.444
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Art,13.248,4,0.2,3.6432
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,83.988,2,0.4,-20.997
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Copiers,1799.97,5,0.4,239.996
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,33.282,3,0.7,-27.735
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,118.65,5,0.4,19.775
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,14.76,5,0.2,4.9815
+Second Class,Consumer,United States,Reading,Pennsylvania,19601,East,Office Supplies,Envelopes,8.856,3,0.2,2.8782
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,6.912,3,0.2,2.5056
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Supplies,55.6,5,0.2,6.255
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,617.976,3,0.2,-7.7247
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,12.672,3,0.2,3.96
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,1119.888,14,0.2,209.979
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,72.0,1,0.2,14.4
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Chairs,470.155,7,0.3,-13.433
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,47.496,1,0.2,-1.1874
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,458.43,5,0.3,-124.431
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Furnishings,11.352,3,0.2,2.6961
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,429.6,2,0.4,-93.08
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,31.968,2,0.2,6.3936
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,887.271,3,0.3,-63.3765
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,21.696,4,0.2,7.0512
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Binders,78.759,9,0.7,-57.7566
+Second Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,19.312,2,0.2,3.1382
+Standard Class,Home Office,United States,Allentown,Pennsylvania,18103,East,Office Supplies,Supplies,3.488,2,0.2,-0.6976
+Standard Class,Home Office,United States,Allentown,Pennsylvania,18103,East,Technology,Accessories,21.728,4,0.2,3.8024
+Standard Class,Home Office,United States,Allentown,Pennsylvania,18103,East,Office Supplies,Storage,663.072,6,0.2,-165.768
+Standard Class,Home Office,United States,Allentown,Pennsylvania,18103,East,Office Supplies,Binders,99.588,2,0.7,-82.99
+Standard Class,Home Office,United States,Allentown,Pennsylvania,18103,East,Office Supplies,Paper,49.568,2,0.2,15.49
+First Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Labels,20.664,7,0.2,6.9741
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,44.688,7,0.2,3.3516
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Furniture,Bookcases,301.47,3,0.5,-204.9996
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Labels,15.936,4,0.2,5.1792
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Binders,8.001,7,0.7,-5.6007
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Chairs,398.972,2,0.3,-28.498
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Furniture,Chairs,1079.316,6,0.3,-15.4188
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Technology,Phones,118.782,3,0.4,-27.7158
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Supplies,769.184,4,0.2,-163.4516
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Fasteners,7.92,5,0.2,1.683
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,3.273,1,0.7,-2.5093
+First Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,87.92,5,0.2,15.386
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Labels,5.904,2,0.2,1.9926
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,2.946,2,0.7,-2.0622
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19134,East,Technology,Phones,285.576,4,0.4,-57.1152
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Technology,Accessories,319.984,2,0.2,91.9954
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,6.848,2,0.2,2.14
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Binders,4.626,2,0.7,-3.855
+Second Class,Corporate,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Appliances,453.6,3,0.2,90.72
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Storage,577.584,6,0.2,43.3188
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Fasteners,9.648,6,0.2,3.4974
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,7.968,2,0.2,2.6892
+Standard Class,Home Office,United States,Philadelphia,Pennsylvania,19143,East,Technology,Phones,1499.97,5,0.4,-374.9925
+Same Day,Home Office,United States,Philadelphia,Pennsylvania,19140,East,Furniture,Furnishings,30.336,4,0.2,9.48
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Furniture,Furnishings,273.568,2,0.2,-34.196
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Binders,13.194,2,0.7,-8.796
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Storage,1080.096,6,0.2,-94.5084
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,51.56,5,0.2,-6.445
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19143,East,Technology,Accessories,58.416,2,0.2,16.7946
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Art,37.312,4,0.2,2.7984
+Second Class,Consumer,United States,Lancaster,Pennsylvania,17602,East,Office Supplies,Storage,221.024,2,0.2,-55.256
+Second Class,Home Office,United States,Philadelphia,Pennsylvania,19134,East,Office Supplies,Paper,5.88,1,0.2,1.9845
+Same Day,Corporate,United States,Philadelphia,Pennsylvania,19143,East,Office Supplies,Paper,123.92,5,0.2,38.725
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Appliances,33.528,3,0.2,2.5146
+Standard Class,Consumer,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Storage,36.744,3,0.2,3.6744
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Office Supplies,Paper,3.424,1,0.2,1.07
+Standard Class,Corporate,United States,Philadelphia,Pennsylvania,19120,East,Technology,Accessories,151.2,3,0.2,32.13
+Same Day,Consumer,United States,Philadelphia,Pennsylvania,19140,East,Office Supplies,Paper,10.368,2,0.2,3.6288

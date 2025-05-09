@@ -1,0 +1,986 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,68.81,5,0.8,-123.858
+Standard Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,2.544,3,0.8,-3.816
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Paper,29.472,3,0.2,9.9468
+First Class,Corporate,United States,Richardson,Texas,75080,Central,Technology,Phones,1097.544,7,0.2,123.4737
+First Class,Corporate,United States,Richardson,Texas,75080,Central,Furniture,Furnishings,190.92,5,0.6,-147.963
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Envelopes,113.328,9,0.2,35.415
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,532.3992,3,0.32,-46.9764
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Chairs,212.058,3,0.3,-15.147
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Technology,Phones,371.168,4,0.2,41.7564
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Binders,1.248,3,0.8,-1.9344
+First Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,9.708,3,0.6,-5.8248
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Storage,27.24,3,0.2,2.724
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,19.3,5,0.6,-14.475
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Storage,158.368,7,0.2,13.8572
+Second Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Chairs,600.558,3,0.3,-8.5794
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,9.936,3,0.2,2.7324
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Machines,8159.952,8,0.4,-1359.992
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Storage,275.928,3,0.2,-58.6347
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Chairs,1740.06,9,0.3,-24.858
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,32.064,6,0.2,6.8136
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Appliances,177.98,5,0.8,-453.849
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Phones,143.976,3,0.2,8.9985
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Appliances,97.264,4,0.8,-243.16
+Standard Class,Corporate,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Storage,37.224,3,0.2,3.7224
+Standard Class,Corporate,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Paper,20.016,3,0.2,6.255
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Appliances,66.284,2,0.8,-178.9668
+Second Class,Corporate,United States,Dallas,Texas,75220,Central,Technology,Accessories,20.8,2,0.2,6.5
+Standard Class,Corporate,United States,Pasadena,Texas,77506,Central,Office Supplies,Appliances,1.624,2,0.8,-4.466
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Technology,Machines,3059.982,3,0.4,-509.997
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Technology,Machines,2519.958,7,0.4,-251.9958
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,2.08,5,0.8,-3.432
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Phones,1114.4,7,0.2,376.11
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Storage,88.8,4,0.2,-2.22
+Standard Class,Consumer,United States,Harlingen,Texas,78550,Central,Office Supplies,Paper,25.92,5,0.2,9.396
+Standard Class,Consumer,United States,Harlingen,Texas,78550,Central,Office Supplies,Storage,53.424,3,0.2,4.6746
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,8.652,3,0.8,-20.3322
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Storage,23.832,3,0.2,2.6811
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,12.176,4,0.8,-18.8728
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Storage,35.952,3,0.2,3.5952
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Bookcases,2396.2656,4,0.32,-317.1528
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Storage,131.136,4,0.2,-32.784
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Accessories,57.584,2,0.2,0.7198
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,6.672,6,0.2,0.5004
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Paper,31.872,8,0.2,11.5536
+Standard Class,Corporate,United States,Amarillo,Texas,79109,Central,Furniture,Bookcases,205.3328,2,0.32,-36.2352
+Second Class,Home Office,United States,Huntsville,Texas,77340,Central,Technology,Phones,7.992,1,0.2,0.5994
+Second Class,Home Office,United States,Huntsville,Texas,77340,Central,Technology,Accessories,63.984,2,0.2,10.3974
+Second Class,Home Office,United States,Huntsville,Texas,77340,Central,Office Supplies,Art,70.368,2,0.2,6.1572
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Accessories,18.392,1,0.2,5.2877
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Storage,129.568,2,0.2,-25.9136
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,14.112,9,0.8,-21.168
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Technology,Accessories,58.112,2,0.2,7.264
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Technology,Phones,100.792,1,0.2,6.2995
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Furniture,Furnishings,66.112,4,0.6,-84.2928
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Fasteners,10.824,3,0.2,2.5707
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Office Supplies,Art,9.344,2,0.2,1.168
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Technology,Accessories,31.2,3,0.2,9.75
+First Class,Corporate,United States,Dallas,Texas,75217,Central,Technology,Phones,369.576,3,0.2,41.5773
+First Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Labels,15.712,4,0.2,5.6956
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Storage,999.432,7,0.2,124.929
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Storage,724.08,14,0.2,-135.765
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Furniture,Tables,918.785,5,0.3,-118.1295
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Binders,2.724,3,0.8,-4.2222
+Second Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Supplies,23.76,3,0.2,2.079
+Second Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,85.056,3,0.2,28.7064
+Second Class,Corporate,United States,Dallas,Texas,75081,Central,Technology,Phones,381.576,3,0.2,28.6182
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Office Supplies,Appliances,2.688,3,0.8,-7.392
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Technology,Accessories,27.816,3,0.2,4.5201
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Furniture,Furnishings,82.524,3,0.6,-41.262
+Standard Class,Consumer,United States,Tyler,Texas,75701,Central,Office Supplies,Binders,182.994,3,0.8,-320.2395
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Envelopes,17.568,2,0.2,6.3684
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Technology,Phones,55.992,1,0.2,5.5992
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Supplies,51.52,5,0.2,-10.948
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,3.528,1,0.2,1.1466
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,4.624,1,0.2,1.6762
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Supplies,55.168,4,0.2,6.2064
+Second Class,Consumer,United States,Tyler,Texas,75701,Central,Office Supplies,Binders,51.184,4,0.8,-79.3352
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Technology,Phones,21.072,3,0.2,1.5804
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Envelopes,15.648,2,0.2,5.0856
+First Class,Consumer,United States,Garland,Texas,75043,Central,Office Supplies,Labels,10.44,5,0.2,3.393
+First Class,Consumer,United States,Garland,Texas,75043,Central,Office Supplies,Binders,18.336,4,0.8,-32.088
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Tables,99.918,2,0.3,-18.5562
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Chairs,797.944,4,0.3,-56.996
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,8.568,3,0.8,-14.5656
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Envelopes,149.352,3,0.2,50.4063
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,12.992,1,0.2,-0.812
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Office Supplies,Art,27.168,2,0.2,2.7168
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Furniture,Bookcases,78.8528,2,0.32,-11.596
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Office Supplies,Labels,7.968,2,0.2,2.5896
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Office Supplies,Envelopes,27.968,4,0.2,9.4392
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Technology,Machines,336.51,3,0.4,44.868
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,1.112,2,0.8,-1.8904
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Chairs,107.772,2,0.3,-29.2524
+Second Class,Consumer,United States,Brownsville,Texas,78521,Central,Office Supplies,Supplies,1.744,1,0.2,-0.3488
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,2.694,3,0.8,-4.7145
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,2.934,3,0.8,-4.9878
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Storage,100.704,6,0.2,-16.3644
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,2.328,2,0.6,-0.7566
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,10.78,5,0.8,-17.248
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Fasteners,58.368,12,0.2,21.888
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Envelopes,40.968,3,0.2,13.8267
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,71.96,5,0.2,25.186
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,1.192,2,0.8,-2.0264
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Technology,Accessories,258.696,3,0.2,64.674
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Accessories,431.928,9,0.2,64.7892
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Chairs,95.984,4,0.3,-4.1136
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,1088.792,4,0.8,-1850.9464
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,Furniture,Chairs,388.43,5,0.3,-88.784
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,Office Supplies,Paper,14.352,3,0.2,5.2026
+Same Day,Consumer,United States,Fort Worth,Texas,76106,Central,Technology,Accessories,63.992,1,0.2,-7.1991
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Art,86.352,3,0.2,5.397
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Binders,2.772,7,0.8,-4.851
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Phones,419.944,7,0.2,52.493
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,1.08,3,0.8,-1.728
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Appliances,7.96,2,0.8,-13.93
+Same Day,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Storage,220.776,3,0.2,-44.1552
+Same Day,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Storage,281.424,11,0.2,-35.178
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,Furniture,Furnishings,1.988,1,0.6,-1.4413
+Standard Class,Home Office,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Labels,23.68,2,0.2,8.88
+First Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Phones,946.344,7,0.2,118.293
+First Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Accessories,151.2,3,0.2,32.13
+First Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,4.928,4,0.6,-1.4784
+Same Day,Consumer,United States,Amarillo,Texas,79109,Central,Technology,Accessories,263.88,3,0.2,42.8805
+Same Day,Consumer,United States,Amarillo,Texas,79109,Central,Furniture,Chairs,2453.43,5,0.3,-350.49
+Standard Class,Corporate,United States,Irving,Texas,75061,Central,Office Supplies,Labels,15.936,4,0.2,5.1792
+First Class,Corporate,United States,Pasadena,Texas,77506,Central,Technology,Accessories,159.984,2,0.2,43.9956
+First Class,Corporate,United States,Pasadena,Texas,77506,Central,Furniture,Chairs,1024.716,6,0.3,-29.2776
+Same Day,Consumer,United States,Houston,Texas,77036,Central,Furniture,Furnishings,6.688,4,0.6,-4.0128
+Standard Class,Consumer,United States,Coppell,Texas,75019,Central,Office Supplies,Art,10.192,7,0.2,3.185
+Standard Class,Consumer,United States,Coppell,Texas,75019,Central,Office Supplies,Storage,16.784,1,0.2,-0.2098
+Standard Class,Consumer,United States,Coppell,Texas,75019,Central,Office Supplies,Art,13.12,5,0.2,3.772
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Paper,16.056,3,0.2,5.8203
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Paper,223.056,9,0.2,69.705
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Storage,540.048,3,0.2,-47.2542
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,200.064,3,0.2,12.504
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,21.38,5,0.8,-33.139
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,6.744,4,0.8,-11.4648
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Paper,335.52,4,0.2,117.432
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,23.912,2,0.8,-40.6504
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Storage,27.056,2,0.2,2.3674
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,9.324,6,0.8,-24.7086
+First Class,Consumer,United States,Allen,Texas,75002,Central,Technology,Accessories,21.48,3,0.2,-0.2685
+First Class,Consumer,United States,Allen,Texas,75002,Central,Office Supplies,Binders,8.784,4,0.8,-13.6152
+First Class,Consumer,United States,El Paso,Texas,79907,Central,Technology,Phones,40.68,3,0.2,-9.153
+First Class,Consumer,United States,El Paso,Texas,79907,Central,Furniture,Chairs,763.28,5,0.3,-21.808
+Standard Class,Corporate,United States,Grapevine,Texas,76051,Central,Office Supplies,Art,33.488,7,0.2,5.8604
+Standard Class,Corporate,United States,Grapevine,Texas,76051,Central,Office Supplies,Fasteners,8.04,5,0.2,2.9145
+Second Class,Consumer,United States,Carrollton,Texas,75007,Central,Office Supplies,Paper,16.896,4,0.2,5.28
+Second Class,Consumer,United States,Carrollton,Texas,75007,Central,Office Supplies,Supplies,6.672,1,0.2,0.5004
+Second Class,Consumer,United States,Carrollton,Texas,75007,Central,Office Supplies,Art,99.136,4,0.2,8.6744
+Second Class,Consumer,United States,Carrollton,Texas,75007,Central,Furniture,Furnishings,15.992,2,0.6,-13.993
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Storage,41.92,5,0.2,3.668
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Technology,Accessories,297.576,3,0.2,-7.4394
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Fasteners,4.344,3,0.2,0.8688
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Technology,Accessories,94.992,2,0.2,-2.3748
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,74.352,3,0.2,23.235
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Art,14.04,3,0.2,1.5795
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Phones,16.68,3,0.2,5.2125
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Technology,Phones,167.968,4,0.2,62.988
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,21.936,2,0.6,-10.4196
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Binders,6.588,3,0.8,-10.2114
+Second Class,Home Office,United States,Plano,Texas,75023,Central,Technology,Accessories,13.616,2,0.2,3.5742
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Paper,14.304,6,0.2,5.0064
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Storage,338.04,3,0.2,-33.804
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Art,154.24,4,0.2,17.352
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Art,6.24,3,0.2,0.546
+Standard Class,Home Office,United States,San Antonio,Texas,78207,Central,Furniture,Tables,206.962,2,0.3,-32.5226
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,Office Supplies,Paper,360.712,11,0.2,130.7581
+Second Class,Home Office,United States,Fort Worth,Texas,76106,Central,Technology,Phones,1718.4,6,0.2,150.36
+First Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Binders,41.568,6,0.8,-66.5088
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Accessories,46.864,2,0.2,7.6154
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Supplies,6.976,4,0.2,-1.3952
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,12.222,7,0.8,-20.1663
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Storage,60.416,2,0.2,6.0416
+Second Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Fasteners,11.168,4,0.2,3.6296
+Second Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,53.952,3,0.2,17.5344
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Technology,Machines,1439.982,3,0.4,-263.9967
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Office Supplies,Paper,36.288,7,0.2,12.7008
+Second Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Labels,40.096,4,0.2,13.5324
+Second Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Furnishings,40.784,2,0.6,-30.588
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Storage,127.92,5,0.2,-15.99
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Binders,34.24,4,0.8,-53.072
+Same Day,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Storage,49.632,4,0.2,4.9632
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Phones,470.376,3,0.2,47.0376
+Second Class,Consumer,United States,Keller,Texas,76248,Central,Office Supplies,Labels,6.0,2,0.2,2.1
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Paper,273.896,7,0.2,92.4399
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Machines,597.132,3,0.4,49.761
+Second Class,Corporate,United States,Arlington,Texas,76017,Central,Technology,Phones,863.64,9,0.2,107.955
+Second Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Art,47.616,3,0.2,3.5712
+Standard Class,Corporate,United States,Carrollton,Texas,75007,Central,Technology,Accessories,95.968,4,0.2,26.3912
+Standard Class,Corporate,United States,Carrollton,Texas,75007,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Appliances,294.62,5,0.8,-766.012
+Second Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Furnishings,8.752,4,0.6,-3.7196
+Standard Class,Home Office,United States,Lubbock,Texas,79424,Central,Office Supplies,Binders,11.364,3,0.8,-17.046
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Technology,Accessories,159.984,2,0.2,35.9964
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Storage,46.344,3,0.2,4.6344
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Paper,9.392,2,0.2,3.2872
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Art,9.328,1,0.2,0.8162
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Labels,23.68,2,0.2,8.88
+Same Day,Corporate,United States,Mesquite,Texas,75150,Central,Office Supplies,Binders,0.876,1,0.8,-1.4016
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Furniture,Furnishings,14.76,5,0.6,-11.439
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Binders,3.656,4,0.8,-5.8496
+Standard Class,Consumer,United States,College Station,Texas,77840,Central,Furniture,Chairs,233.058,3,0.3,-53.2704
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Furniture,Furnishings,22.608,3,0.6,-10.1736
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Technology,Accessories,191.976,3,0.2,23.997
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Office Supplies,Paper,8.288,2,0.2,3.0044
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Furniture,Furnishings,139.92,5,0.6,-150.414
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Office Supplies,Art,15.872,1,0.2,1.1904
+Standard Class,Consumer,United States,Laredo,Texas,78041,Central,Office Supplies,Binders,6.286,7,0.8,-11.0005
+Standard Class,Corporate,United States,San Angelo,Texas,76903,Central,Furniture,Chairs,305.312,2,0.3,-8.7232
+Standard Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Binders,9.264,3,0.8,-13.896
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Storage,61.792,4,0.2,6.1792
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Office Supplies,Fasteners,2.896,2,0.2,0.4706
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Technology,Phones,124.792,1,0.2,15.599
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Paper,27.216,3,0.2,9.8658
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Paper,70.08,5,0.2,24.528
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,1.272,2,0.8,-2.1624
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Tables,557.585,5,0.3,0.0
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Furniture,Bookcases,956.6648,7,0.32,-225.0976
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Binders,1.344,4,0.8,-2.1504
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Binders,8.272,4,0.8,-13.6488
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Furnishings,12.544,7,0.6,-9.0944
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Phones,54.368,4,0.2,4.0776
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Supplies,11.184,1,0.2,0.8388
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,153.584,2,0.2,-32.6366
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Tables,300.93,5,0.3,-34.392
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Phones,719.96,5,0.2,53.997
+Same Day,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Appliances,32.784,4,0.8,-85.2384
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Envelopes,604.656,9,0.2,204.0714
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Art,42.048,9,0.2,5.256
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Accessories,25.488,2,0.2,4.4604
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,6.9,3,0.8,-12.075
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,9.648,6,0.8,-16.884
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,7.968,2,0.2,2.8884
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Furnishings,51.712,8,0.6,-32.32
+Second Class,Consumer,United States,Carrollton,Texas,75007,Central,Technology,Accessories,1399.944,7,0.2,52.4979
+Standard Class,Corporate,United States,Haltom City,Texas,76117,Central,Office Supplies,Envelopes,6.608,2,0.2,2.1476
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Technology,Accessories,24.672,3,0.2,0.0
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Labels,2.52,1,0.2,0.882
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Tables,1218.735,5,0.3,-121.8735
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Labels,5.904,2,0.2,1.9926
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Paper,15.696,3,0.2,5.1012
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Furnishings,6.096,3,0.6,-3.9624
+Same Day,Consumer,United States,Amarillo,Texas,79109,Central,Technology,Accessories,79.512,3,0.2,20.8719
+Same Day,Consumer,United States,Amarillo,Texas,79109,Central,Office Supplies,Paper,28.352,1,0.2,9.5688
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Furnishings,23.976,3,0.6,-14.3856
+Standard Class,Home Office,United States,Frisco,Texas,75034,Central,Technology,Accessories,27.168,4,0.2,-1.3584
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Appliances,32.192,2,0.8,-80.48
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Technology,Accessories,50.12,7,0.2,-0.6265
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Technology,Accessories,47.976,3,0.2,1.7991
+Standard Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Furniture,Furnishings,58.36,5,0.6,-24.803
+Standard Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Office Supplies,Art,16.464,7,0.2,1.4406
+Standard Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Furniture,Furnishings,39.96,5,0.6,-23.976
+Standard Class,Consumer,United States,El Paso,Texas,79907,Central,Furniture,Chairs,47.516,2,0.3,-2.0364
+First Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Art,8.928,2,0.2,0.558
+First Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Storage,47.584,2,0.2,-2.974
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Paper,33.792,8,0.2,10.56
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,300.5328,2,0.32,-97.2312
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Binders,2.724,2,0.8,-4.3584
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Envelopes,3.264,2,0.2,1.1016
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Storage,143.728,2,0.2,-32.3388
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Chairs,408.422,2,0.3,-5.8346
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Art,5.952,1,0.2,0.372
+Second Class,Home Office,United States,Austin,Texas,78745,Central,Office Supplies,Binders,3.882,3,0.8,-5.823
+Standard Class,Consumer,United States,Allen,Texas,75002,Central,Furniture,Tables,244.006,2,0.3,-31.3722
+Standard Class,Consumer,United States,Allen,Texas,75002,Central,Office Supplies,Paper,15.936,4,0.2,5.3784
+Standard Class,Home Office,United States,Pharr,Texas,78577,Central,Office Supplies,Storage,727.296,8,0.2,-172.7328
+Standard Class,Home Office,United States,Pharr,Texas,78577,Central,Furniture,Furnishings,22.608,3,0.6,-10.1736
+Standard Class,Home Office,United States,Pharr,Texas,78577,Central,Technology,Accessories,666.4,7,0.2,-33.32
+Standard Class,Consumer,United States,Brownsville,Texas,78521,Central,Furniture,Bookcases,327.7328,2,0.32,-14.4588
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,26.88,8,0.2,9.744
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Office Supplies,Storage,342.864,3,0.2,38.5722
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,16.74,5,0.6,-14.229
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Furniture,Chairs,981.372,2,0.3,-140.196
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,252.784,4,0.8,-417.0936
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Accessories,127.984,2,0.2,15.998
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,3.984,2,0.6,-2.6892
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Appliances,12.992,2,0.8,-32.48
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Labels,33.12,4,0.2,11.592
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Furniture,Bookcases,220.2656,4,0.32,-42.1096
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Labels,15.712,4,0.2,5.6956
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,30.56,5,0.8,-45.84
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Office Supplies,Storage,77.952,3,0.2,-15.5904
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Technology,Phones,67.992,1,0.2,8.499
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Office Supplies,Envelopes,12.224,2,0.2,4.4312
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Technology,Accessories,44.784,2,0.2,-0.5598
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Furniture,Furnishings,22.848,3,0.6,-17.7072
+Same Day,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,210.392,2,0.8,-336.6272
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Furniture,Chairs,347.802,7,0.3,-24.843
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,5.18,5,0.8,-8.029
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Binders,26.046,3,0.8,-44.2782
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Envelopes,74.352,3,0.2,26.9526
+Standard Class,Corporate,United States,Missouri City,Texas,77489,Central,Office Supplies,Binders,6.37,7,0.8,-9.555
+First Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Binders,3.648,3,0.8,-6.0192
+First Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Paper,31.104,6,0.2,10.8864
+Standard Class,Corporate,United States,Pearland,Texas,77581,Central,Office Supplies,Envelopes,13.392,3,0.2,5.022
+Standard Class,Corporate,United States,Pearland,Texas,77581,Central,Office Supplies,Binders,11.228,7,0.8,-18.5262
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,26.046,3,0.8,-44.2782
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,2.896,1,0.8,-4.7784
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Storage,32.544,2,0.2,-7.7292
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Chairs,318.43,5,0.3,-77.333
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,122.92,7,0.2,46.095
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Furnishings,7.068,3,0.6,-2.8272
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Technology,Phones,219.8,5,0.2,24.7275
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Furniture,Chairs,317.058,3,0.3,-18.1176
+First Class,Corporate,United States,Pasadena,Texas,77506,Central,Office Supplies,Paper,20.736,4,0.2,7.2576
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,30.96,8,0.8,-52.632
+Second Class,Corporate,United States,Laredo,Texas,78041,Central,Office Supplies,Envelopes,12.984,3,0.2,4.7067
+Second Class,Corporate,United States,Laredo,Texas,78041,Central,Technology,Phones,217.584,2,0.2,19.0386
+Second Class,Corporate,United States,Laredo,Texas,78041,Central,Technology,Phones,328.776,3,0.2,28.7679
+Second Class,Corporate,United States,Laredo,Texas,78041,Central,Office Supplies,Binders,2.286,3,0.8,-3.6576
+Second Class,Corporate,United States,Laredo,Texas,78041,Central,Technology,Accessories,47.984,2,0.2,14.3952
+Second Class,Corporate,United States,Round Rock,Texas,78664,Central,Furniture,Furnishings,341.96,5,0.6,-427.45
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,896.99,5,0.8,-1480.0335
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,1.234,1,0.8,-1.9744
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Art,67.56,3,0.2,6.756
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,21.72,5,0.2,7.8735
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,262.336,8,0.2,95.0968
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Phones,148.48,2,0.2,16.704
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Phones,241.176,3,0.2,15.0735
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Furnishings,9.552,3,0.6,-3.8208
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,14.352,3,0.2,4.485
+First Class,Corporate,United States,Conroe,Texas,77301,Central,Office Supplies,Storage,111.672,9,0.2,6.9795
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Binders,13.776,6,0.8,-22.0416
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Paper,10.272,3,0.2,3.21
+Second Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,6.848,2,0.2,2.14
+First Class,Consumer,United States,Pasadena,Texas,77506,Central,Office Supplies,Binders,6.928,1,0.8,-11.0848
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Furnishings,65.424,4,0.6,-52.3392
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,16.192,2,0.6,-8.5008
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Tables,251.006,2,0.3,-68.1302
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Storage,54.192,6,0.2,4.0644
+Second Class,Corporate,United States,Dallas,Texas,75081,Central,Technology,Phones,492.768,4,0.2,55.4364
+Same Day,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Same Day,Consumer,United States,Austin,Texas,78745,Central,Technology,Accessories,95.736,3,0.2,20.3439
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Technology,Phones,201.584,2,0.2,20.1584
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Office Supplies,Binders,3.392,4,0.8,-5.088
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Furniture,Bookcases,193.0656,4,0.32,-19.8744
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Office Supplies,Paper,11.648,2,0.2,4.0768
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Technology,Machines,418.8,2,0.4,-97.72
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Office Supplies,Storage,509.488,7,0.2,-127.372
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Technology,Phones,657.552,6,0.2,49.3164
+Second Class,Consumer,United States,College Station,Texas,77840,Central,Office Supplies,Paper,28.672,8,0.2,10.3936
+Second Class,Consumer,United States,College Station,Texas,77840,Central,Office Supplies,Appliances,29.312,8,0.8,-74.7456
+Second Class,Home Office,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,15.008,4,0.6,-12.0064
+Standard Class,Corporate,United States,Mesquite,Texas,75150,Central,Office Supplies,Paper,5.184,1,0.2,1.8144
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Supplies,2.92,1,0.2,0.365
+Second Class,Corporate,United States,Dallas,Texas,75217,Central,Technology,Accessories,58.416,2,0.2,16.7946
+First Class,Corporate,United States,San Antonio,Texas,78207,Central,Furniture,Tables,718.116,6,0.3,-71.8116
+First Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,31.776,4,0.2,8.7384
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Art,23.832,3,0.2,6.5538
+Standard Class,Corporate,United States,Mesquite,Texas,75150,Central,Furniture,Furnishings,6.368,2,0.6,-2.5472
+Standard Class,Corporate,United States,Mesquite,Texas,75150,Central,Office Supplies,Appliances,34.176,3,0.8,-87.1488
+Standard Class,Corporate,United States,Mesquite,Texas,75150,Central,Technology,Accessories,5.544,7,0.2,1.6632
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Art,35.712,8,0.2,2.232
+First Class,Corporate,United States,Odessa,Texas,79762,Central,Office Supplies,Paper,42.784,7,0.2,15.5092
+First Class,Corporate,United States,Odessa,Texas,79762,Central,Furniture,Chairs,563.43,5,0.3,-56.343
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Tables,99.372,2,0.3,-1.4196
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Office Supplies,Art,1.344,1,0.2,0.504
+Second Class,Home Office,United States,Houston,Texas,77036,Central,Technology,Phones,119.96,5,0.2,11.996
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Art,3.912,1,0.2,1.0269
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Art,62.376,3,0.2,7.0173
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Storage,107.44,10,0.2,10.744
+Second Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,3.564,3,0.8,-6.237
+Second Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Phones,823.96,5,0.2,51.4975
+Second Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Art,10.272,3,0.2,0.8988
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Accessories,279.944,7,0.2,48.9902
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Fasteners,3.552,3,0.2,1.2432
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Consumer,United States,Edinburg,Texas,78539,Central,Office Supplies,Fasteners,2.368,2,0.2,0.8288
+Standard Class,Corporate,United States,Baytown,Texas,77520,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+First Class,Consumer,United States,Pearland,Texas,77581,Central,Technology,Phones,470.376,3,0.2,52.9173
+First Class,Consumer,United States,Harlingen,Texas,78550,Central,Furniture,Bookcases,241.332,5,0.32,-14.196
+First Class,Consumer,United States,Harlingen,Texas,78550,Central,Office Supplies,Paper,5.184,1,0.2,1.8792
+First Class,Consumer,United States,Harlingen,Texas,78550,Central,Office Supplies,Art,145.544,7,0.2,16.3737
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Envelopes,28.752,3,0.2,9.3444
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Paper,27.216,3,0.2,9.8658
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Furniture,Chairs,197.372,2,0.3,-25.3764
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Office Supplies,Art,6.368,2,0.2,1.0348
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Office Supplies,Labels,48.848,2,0.2,15.8756
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Office Supplies,Paper,19.648,2,0.2,6.6312
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Furniture,Chairs,255.108,6,0.3,-18.222
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,5.728,8,0.8,-9.1648
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Paper,42.24,10,0.2,13.2
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Tables,637.896,3,0.3,-127.5792
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Machines,287.91,3,0.4,33.5895
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Envelopes,36.6,3,0.2,11.895
+First Class,Corporate,United States,Bedford,Texas,76021,Central,Office Supplies,Paper,29.664,4,0.2,10.0116
+First Class,Corporate,United States,Bedford,Texas,76021,Central,Office Supplies,Art,9.184,7,0.2,2.87
+First Class,Corporate,United States,Bedford,Texas,76021,Central,Technology,Phones,153.584,2,0.2,13.4386
+First Class,Corporate,United States,Bedford,Texas,76021,Central,Office Supplies,Binders,12.864,8,0.8,-22.512
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Binders,9.156,3,0.8,-13.734
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,13.14,9,0.8,-21.681
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,10.024,4,0.8,-16.5396
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Furniture,Bookcases,156.3728,2,0.32,-52.8908
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,2.264,1,0.8,-5.2072
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,0.444,1,0.8,-1.11
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,146.176,8,0.2,47.5072
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,4.312,2,0.8,-6.8992
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Labels,8.856,3,0.2,2.9889
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,158.376,3,0.2,13.8579
+First Class,Corporate,United States,Deer Park,Texas,77536,Central,Office Supplies,Binders,6.924,6,0.8,-10.386
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Binders,9.762,3,0.8,-15.1311
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Storage,13.72,1,0.2,1.2005
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Technology,Accessories,55.2,1,0.2,-2.07
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Storage,259.136,4,0.2,-58.3056
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Binders,4.24,5,0.8,-6.36
+Standard Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Binders,6.874,7,0.8,-10.6547
+Standard Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Binders,1.996,1,0.8,-3.2934
+Standard Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Storage,8.928,2,0.2,0.6696
+Same Day,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Paper,21.12,5,0.2,6.6
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,332.028,9,0.6,-348.6294
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,11.394,9,0.8,-17.6607
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,15.552,3,0.2,5.6376
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,31.104,6,0.2,11.2752
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,6.316,1,0.8,-10.4214
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Tables,863.128,8,0.3,-160.2952
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Binders,3.564,3,0.8,-6.237
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Bookcases,956.6648,7,0.32,-225.0976
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Binders,12.588,3,0.8,-20.1408
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Accessories,171.96,5,0.2,45.1395
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Appliances,48.632,2,0.8,-121.58
+Second Class,Corporate,United States,Port Arthur,Texas,77642,Central,Furniture,Bookcases,246.1328,2,0.32,-76.0116
+Second Class,Corporate,United States,Port Arthur,Texas,77642,Central,Office Supplies,Labels,11.696,2,0.2,3.9474
+Second Class,Corporate,United States,Port Arthur,Texas,77642,Central,Technology,Copiers,439.992,1,0.2,164.997
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Binders,33.28,5,0.8,-49.92
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Paper,14.088,3,0.2,4.9308
+Same Day,Consumer,United States,The Colony,Texas,75056,Central,Office Supplies,Envelopes,59.752,7,0.2,19.4194
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Art,70.368,2,0.2,6.1572
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Technology,Phones,59.96,5,0.2,21.7355
+Standard Class,Consumer,United States,Port Arthur,Texas,77642,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Consumer,United States,Port Arthur,Texas,77642,Central,Office Supplies,Paper,23.68,4,0.2,7.4
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Binders,16.27,5,0.8,-25.2185
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Supplies,69.12,9,0.2,-14.688
+Standard Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Binders,4.47,3,0.8,-7.8225
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Paper,25.92,5,0.2,9.072
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Fasteners,21.312,6,0.2,7.1928
+First Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Storage,10.784,1,0.2,0.8088
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,2.296,2,0.8,-3.9032
+Standard Class,Corporate,United States,El Paso,Texas,79907,Central,Office Supplies,Envelopes,49.568,2,0.2,17.9684
+First Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Chairs,127.869,3,0.3,-9.1335
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,10.476,6,0.8,-17.2854
+Standard Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Appliances,62.79,3,0.8,-166.3935
+Standard Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Fasteners,28.44,9,0.2,4.266
+Second Class,Corporate,United States,Houston,Texas,77095,Central,Technology,Accessories,134.376,3,0.2,6.7188
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,11.06,10,0.8,-18.802
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Furniture,Bookcases,623.4648,7,0.32,-119.1918
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Storage,772.68,5,0.2,-57.951
+Standard Class,Home Office,United States,Austin,Texas,78745,Central,Office Supplies,Art,5.248,2,0.2,0.5904
+Standard Class,Home Office,United States,Austin,Texas,78745,Central,Office Supplies,Storage,74.416,2,0.2,-14.8832
+Standard Class,Home Office,United States,Austin,Texas,78745,Central,Office Supplies,Paper,6.848,2,0.2,2.14
+Standard Class,Home Office,United States,Austin,Texas,78745,Central,Furniture,Furnishings,7.996,1,0.6,-6.9965
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,8.712,2,0.8,-19.602
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Paper,36.288,7,0.2,12.7008
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Furnishings,56.568,2,0.6,-74.9526
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Technology,Accessories,15.576,3,0.2,3.3099
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Technology,Accessories,22.368,4,0.2,6.4308
+First Class,Corporate,United States,San Antonio,Texas,78207,Central,Technology,Accessories,113.52,5,0.2,29.799
+First Class,Corporate,United States,San Antonio,Texas,78207,Central,Technology,Phones,359.88,3,0.2,22.4925
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Chairs,683.144,4,0.3,0.0
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,1.476,3,0.8,-2.214
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Supplies,40.712,7,0.2,3.5623
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Appliances,463.248,8,0.8,-1181.2824
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Accessories,383.952,6,0.2,47.994
+Second Class,Home Office,United States,Austin,Texas,78745,Central,Technology,Phones,758.352,6,0.2,265.4232
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Fasteners,1.824,2,0.2,0.6156
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,18.32,5,0.8,-46.716
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Storage,48.816,3,0.2,-11.5938
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,1.188,1,0.8,-1.9602
+Second Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Chairs,674.058,3,0.3,-19.2588
+Second Class,Consumer,United States,League City,Texas,77573,Central,Office Supplies,Art,67.144,7,0.2,5.8751
+Second Class,Consumer,United States,League City,Texas,77573,Central,Furniture,Chairs,254.058,3,0.3,-32.6646
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Office Supplies,Binders,2.512,2,0.8,-4.396
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Office Supplies,Fasteners,18.864,9,0.2,6.1308
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Technology,Accessories,398.4,5,0.2,84.66
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Art,7.056,3,0.2,0.7938
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Bookcases,1352.3976,9,0.32,-437.5404
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Tables,744.1,5,0.3,-95.67
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Storage,44.84,5,0.2,5.605
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Tables,401.59,2,0.3,-131.951
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,5.792,2,0.8,-9.5568
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Art,4.448,2,0.2,0.3336
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,5.184,1,0.2,1.8792
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Consumer,United States,Waco,Texas,76706,Central,Office Supplies,Binders,2.072,2,0.8,-3.5224
+Standard Class,Consumer,United States,Waco,Texas,76706,Central,Furniture,Bookcases,328.3992,3,0.32,-91.7586
+Standard Class,Consumer,United States,Pasadena,Texas,77506,Central,Technology,Accessories,167.952,6,0.2,-27.2922
+Standard Class,Consumer,United States,Pasadena,Texas,77506,Central,Office Supplies,Art,45.04,2,0.2,4.504
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Office Supplies,Supplies,3930.072,3,0.2,-786.0144
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Office Supplies,Fasteners,2.304,1,0.2,0.7776
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Technology,Phones,431.976,3,0.2,32.3982
+Standard Class,Consumer,United States,Round Rock,Texas,78664,Central,Technology,Accessories,41.72,7,0.2,5.7365
+Standard Class,Corporate,United States,Carrollton,Texas,75007,Central,Office Supplies,Binders,3.318,3,0.8,-5.6406
+First Class,Home Office,United States,Houston,Texas,77036,Central,Technology,Phones,196.776,3,0.2,14.7582
+First Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Binders,2.92,2,0.8,-4.818
+First Class,Home Office,United States,Houston,Texas,77036,Central,Furniture,Tables,200.795,1,0.3,-22.948
+First Class,Home Office,United States,Houston,Texas,77036,Central,Technology,Accessories,46.688,4,0.2,-2.918
+First Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Art,21.864,3,0.2,3.5529
+Standard Class,Home Office,United States,Odessa,Texas,79762,Central,Furniture,Chairs,340.116,6,0.3,-9.7176
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Paper,17.904,2,0.2,6.2664
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Chairs,966.7,5,0.3,-13.81
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Paper,182.112,6,0.2,61.4628
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,89.568,2,0.2,32.4684
+First Class,Home Office,United States,Garland,Texas,75043,Central,Furniture,Furnishings,8.544,2,0.6,-7.476
+First Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Chairs,191.058,3,0.3,-46.3998
+First Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Art,13.04,5,0.2,3.912
+First Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,1525.188,6,0.8,-2287.782
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Phones,31.92,2,0.2,2.394
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Envelopes,1.632,1,0.2,0.5508
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Technology,Phones,267.96,5,0.2,16.7475
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,41.92,4,0.2,15.196
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Technology,Phones,329.584,2,0.2,37.0782
+First Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Storage,720.76,5,0.2,54.057
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,151.192,1,0.2,13.2293
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Tables,347.361,7,0.3,-69.4722
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Second Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Paper,25.92,5,0.2,9.072
+Second Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Fasteners,15.808,8,0.2,5.3352
+Second Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Paper,10.368,2,0.2,3.7584
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,36.288,7,0.2,12.7008
+First Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,150.384,2,0.2,15.0384
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Envelopes,20.936,1,0.2,7.0659
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,16.176,3,0.2,6.066
+Standard Class,Home Office,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,3.592,4,0.8,-6.286
+First Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Storage,18.16,2,0.2,1.816
+Standard Class,Corporate,United States,Cedar Hill,Texas,75104,Central,Office Supplies,Paper,115.296,3,0.2,40.3536
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Office Supplies,Art,2.672,1,0.2,0.334
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Office Supplies,Supplies,16.656,6,0.2,-3.123
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Technology,Accessories,79.512,3,0.2,20.8719
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Office Supplies,Paper,36.288,7,0.2,12.7008
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Bookcases,67.9932,1,0.32,-12.9987
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Storage,14.16,1,0.2,1.062
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Paper,79.92,5,0.2,27.972
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Envelopes,15.84,2,0.2,5.544
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,8.448,2,0.2,2.64
+Standard Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Chairs,275.058,3,0.3,-90.3762
+Same Day,Consumer,United States,Laredo,Texas,78041,Central,Office Supplies,Labels,11.84,1,0.2,4.44
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Technology,Phones,946.344,7,0.2,118.293
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,3.16,4,0.8,-8.532
+Standard Class,Consumer,United States,Fort Worth,Texas,76106,Central,Technology,Copiers,1999.96,5,0.2,624.9875
+Standard Class,Home Office,United States,San Antonio,Texas,78207,Central,Office Supplies,Labels,60.144,6,0.2,20.2986
+Second Class,Corporate,United States,Houston,Texas,77070,Central,Technology,Accessories,85.2,6,0.2,20.235
+Standard Class,Consumer,United States,Waco,Texas,76706,Central,Office Supplies,Storage,23.968,2,0.2,2.3968
+First Class,Consumer,United States,El Paso,Texas,79907,Central,Technology,Phones,575.968,4,0.2,43.1976
+First Class,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,61.792,4,0.2,6.1792
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Bookcases,205.9992,3,0.32,-27.2646
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,33.488,7,0.2,-1.2558
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Supplies,23.04,3,0.2,-4.896
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,1.362,1,0.8,-2.1792
+Standard Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,14.76,5,0.6,-11.439
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Technology,Phones,95.992,1,0.2,9.5992
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Office Supplies,Labels,13.216,4,0.2,4.2952
+Standard Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Paper,20.736,4,0.2,7.2576
+Standard Class,Consumer,United States,Cedar Hill,Texas,75104,Central,Office Supplies,Envelopes,7.08,3,0.2,2.478
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Office Supplies,Appliances,19.568,2,0.8,-52.8336
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Office Supplies,Binders,310.392,4,0.8,-512.1468
+First Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Paper,173.488,7,0.2,54.215
+First Class,Consumer,United States,Edinburg,Texas,78539,Central,Office Supplies,Binders,2.068,1,0.8,-3.4122
+First Class,Consumer,United States,Edinburg,Texas,78539,Central,Office Supplies,Paper,83.84,8,0.2,30.392
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Storage,152.688,2,0.2,-26.7204
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Fasteners,3.488,2,0.2,0.5668
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Supplies,5.888,2,0.2,-1.3248
+First Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Storage,151.056,9,0.2,7.5528
+Same Day,Consumer,United States,Lubbock,Texas,79424,Central,Furniture,Furnishings,25.16,5,0.6,-11.322
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,6.216,6,0.8,-9.6348
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Art,23.616,9,0.2,2.6568
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Accessories,24.032,2,0.2,-0.6008
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Labels,2.088,1,0.2,0.6786
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,4.488,6,0.8,-6.732
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Office Supplies,Appliances,19.432,2,0.8,-49.5516
+Standard Class,Consumer,United States,Grand Prairie,Texas,75051,Central,Technology,Accessories,65.44,5,0.2,-8.18
+Standard Class,Home Office,United States,Bedford,Texas,76021,Central,Office Supplies,Paper,20.96,4,0.2,6.812
+Standard Class,Home Office,United States,Mcallen,Texas,78501,Central,Technology,Accessories,27.696,3,0.2,3.462
+Standard Class,Home Office,United States,Mcallen,Texas,78501,Central,Office Supplies,Appliances,73.164,6,0.8,-186.5682
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Paper,117.456,3,0.2,44.046
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,25.92,5,0.2,9.072
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,6.33,5,0.8,-9.8115
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,75.88,5,0.2,26.558
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,51.016,7,0.2,15.9425
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Fasteners,25.248,4,0.2,7.89
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Chairs,56.686,1,0.3,-14.5764
+Standard Class,Consumer,United States,Irving,Texas,75061,Central,Technology,Phones,88.776,3,0.2,7.7679
+Standard Class,Corporate,United States,Plano,Texas,75023,Central,Office Supplies,Labels,9.856,4,0.2,3.4496
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Technology,Phones,195.96,5,0.2,19.596
+Second Class,Home Office,United States,Corpus Christi,Texas,78415,Central,Office Supplies,Paper,74.352,3,0.2,23.235
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,108.4,5,0.6,-105.69
+Standard Class,Corporate,United States,Grand Prairie,Texas,75051,Central,Furniture,Furnishings,38.08,5,0.6,-29.512
+First Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Binders,32.784,4,0.8,-52.4544
+First Class,Consumer,United States,Austin,Texas,78745,Central,Technology,Accessories,47.984,2,0.2,14.3952
+First Class,Consumer,United States,Austin,Texas,78745,Central,Technology,Accessories,62.592,8,0.2,13.3008
+First Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Binders,4.276,1,0.8,-6.6278
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Office Supplies,Art,5.248,2,0.2,0.5904
+First Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Chairs,899.43,5,0.3,-12.849
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Art,46.2,5,0.2,5.775
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,47.952,3,0.2,16.1838
+First Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,7.992,1,0.2,0.6993
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,76.864,2,0.2,26.9024
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Furniture,Tables,974.988,4,0.3,-97.4988
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Furniture,Furnishings,103.5,5,0.6,-77.625
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Labels,2.464,1,0.2,0.8624
+Second Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Storage,8.72,1,0.2,0.654
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Art,3.44,2,0.2,0.559
+Standard Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Labels,100.24,10,0.2,33.831
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Accessories,24.0,2,0.2,-2.7
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Accessories,26.176,2,0.2,-3.272
+Standard Class,Home Office,United States,El Paso,Texas,79907,Central,Office Supplies,Labels,6.936,3,0.2,2.3409
+Standard Class,Home Office,United States,El Paso,Texas,79907,Central,Office Supplies,Binders,4.428,3,0.8,-6.8634
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Appliances,33.62,5,0.8,-90.774
+Second Class,Consumer,United States,Waco,Texas,76706,Central,Office Supplies,Binders,243.992,4,0.8,-426.986
+Second Class,Consumer,United States,Waco,Texas,76706,Central,Office Supplies,Art,7.12,5,0.2,0.712
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Art,2.688,2,0.2,1.008
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Chairs,317.058,3,0.3,-18.1176
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Envelopes,149.352,3,0.2,50.4063
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Technology,Accessories,227.976,3,0.2,28.497
+Standard Class,Consumer,United States,Texas City,Texas,77590,Central,Furniture,Tables,102.438,1,0.3,-13.1706
+Standard Class,Consumer,United States,Texas City,Texas,77590,Central,Furniture,Chairs,199.304,4,0.3,-8.5416
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Binders,42.616,7,0.8,-68.1856
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Technology,Copiers,319.984,2,0.2,107.9946
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Fasteners,45.92,5,0.2,15.498
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Furnishings,21.184,2,0.6,-11.6512
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Paper,20.736,4,0.2,7.2576
+First Class,Corporate,United States,Arlington,Texas,76017,Central,Furniture,Chairs,213.43,5,0.3,-39.637
+Second Class,Consumer,United States,Irving,Texas,75061,Central,Office Supplies,Paper,219.84,5,0.2,79.692
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Art,12.16,5,0.2,2.128
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Storage,93.456,3,0.2,-17.523
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,20.104,2,0.6,-16.5858
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,3.798,1,0.8,-6.0768
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,7.88,5,0.6,-3.94
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Paper,98.376,3,0.2,35.6613
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Furnishings,22.38,3,0.6,-7.833
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Second Class,Consumer,United States,Beaumont,Texas,77705,Central,Office Supplies,Binders,10.78,5,0.8,-17.248
+Second Class,Consumer,United States,Beaumont,Texas,77705,Central,Technology,Accessories,119.976,3,0.2,-17.9964
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,131.376,6,0.6,-95.2476
+Same Day,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,5.344,1,0.2,1.8704
+Second Class,Corporate,United States,El Paso,Texas,79907,Central,Technology,Accessories,95.976,3,0.2,-10.7973
+Same Day,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Paper,36.544,2,0.2,11.8768
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Technology,Machines,479.988,2,0.4,55.9986
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Art,31.744,2,0.2,8.3328
+First Class,Consumer,United States,Abilene,Texas,79605,Central,Office Supplies,Appliances,1.392,2,0.8,-3.7584
+Standard Class,Corporate,United States,Port Arthur,Texas,77642,Central,Office Supplies,Paper,5.184,1,0.2,1.8144
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Paper,9.248,2,0.2,3.3524
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,1.964,2,0.8,-3.2406
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,82.656,9,0.2,30.996
+Standard Class,Consumer,United States,Mcallen,Texas,78501,Central,Office Supplies,Art,4.448,2,0.2,0.3336
+Standard Class,Consumer,United States,Mcallen,Texas,78501,Central,Office Supplies,Paper,5.184,1,0.2,1.8144
+Standard Class,Consumer,United States,Mcallen,Texas,78501,Central,Office Supplies,Art,175.92,5,0.2,15.393
+Standard Class,Consumer,United States,Mcallen,Texas,78501,Central,Office Supplies,Binders,4.752,4,0.8,-8.316
+Standard Class,Consumer,United States,Mcallen,Texas,78501,Central,Office Supplies,Supplies,13.344,2,0.2,1.0008
+Second Class,Corporate,United States,Amarillo,Texas,79109,Central,Office Supplies,Paper,19.648,2,0.2,6.6312
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Phones,971.88,3,0.2,109.3365
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Technology,Accessories,143.96,5,0.2,1.7995
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Technology,Copiers,2399.96,5,0.2,569.9905
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Paper,74.352,3,0.2,23.235
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Appliances,87.168,8,0.8,-226.6368
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Storage,32.232,3,0.2,2.4174
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Supplies,5.552,2,0.2,-1.041
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Art,8.016,3,0.2,1.002
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Furniture,Chairs,74.592,4,0.3,-2.1312
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Furniture,Furnishings,16.784,2,0.6,-22.2388
+Standard Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,38.864,4,0.8,-99.1032
+Second Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Chairs,155.372,2,0.3,-35.5136
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Technology,Machines,559.71,3,0.4,-121.2705
+First Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Art,37.84,2,0.2,2.838
+First Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Fasteners,5.472,6,0.2,1.8468
+Standard Class,Consumer,United States,Plano,Texas,75023,Central,Furniture,Tables,890.841,3,0.3,-152.7156
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Appliances,176.772,3,0.8,-459.6072
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Chairs,85.246,2,0.3,-6.089
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,32.712,2,0.6,-26.1696
+First Class,Corporate,United States,Brownsville,Texas,78521,Central,Office Supplies,Paper,10.688,2,0.2,3.7408
+First Class,Corporate,United States,Brownsville,Texas,78521,Central,Office Supplies,Storage,237.096,3,0.2,20.7459
+Second Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Art,9.912,3,0.2,3.2214
+Second Class,Home Office,United States,Houston,Texas,77036,Central,Furniture,Chairs,318.43,5,0.3,-77.333
+Second Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Binders,5.8,5,0.8,-10.15
+Second Class,Home Office,United States,Houston,Texas,77036,Central,Technology,Phones,1415.76,6,0.2,88.485
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Paper,10.272,3,0.2,3.21
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Tables,512.19,5,0.3,-65.853
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Appliances,1.556,2,0.8,-4.2012
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,13.592,2,0.6,-14.2716
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Technology,Phones,719.952,6,0.2,71.9952
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Technology,Phones,755.944,7,0.2,66.1451
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Office Supplies,Binders,11.98,5,0.8,-19.168
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Office Supplies,Binders,0.898,1,0.8,-1.5715
+First Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Furnishings,21.204,3,0.6,-11.6622
+First Class,Corporate,United States,Houston,Texas,77070,Central,Technology,Accessories,47.976,3,0.2,8.3958
+First Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Paper,20.736,4,0.2,7.2576
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,264.32,2,0.2,19.824
+First Class,Home Office,United States,Brownsville,Texas,78521,Central,Office Supplies,Envelopes,335.72,5,0.2,113.3055
+First Class,Home Office,United States,Brownsville,Texas,78521,Central,Technology,Phones,251.944,7,0.2,88.1804
+First Class,Home Office,United States,Brownsville,Texas,78521,Central,Furniture,Chairs,127.302,7,0.3,-9.093
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Technology,Accessories,119.448,3,0.2,-13.4379
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Storage,118.16,2,0.2,-25.109
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Furnishings,76.728,3,0.6,-53.7096
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Binders,10.43,7,0.8,-18.2525
+First Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Paper,163.96,5,0.2,59.4355
+First Class,Home Office,United States,Houston,Texas,77036,Central,Office Supplies,Binders,5.232,4,0.8,-8.1096
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Furniture,Chairs,179.886,1,0.3,-2.5698
+Standard Class,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Art,17.856,4,0.2,4.2408
+First Class,Home Office,United States,Dallas,Texas,75220,Central,Office Supplies,Envelopes,114.848,4,0.2,35.89
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Paper,10.688,2,0.2,3.7408
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+First Class,Consumer,United States,Plano,Texas,75023,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+First Class,Corporate,United States,Dallas,Texas,75217,Central,Technology,Accessories,39.984,2,0.2,-1.4994
+Standard Class,Consumer,United States,Amarillo,Texas,79109,Central,Technology,Phones,307.168,4,0.2,30.7168
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Technology,Phones,19.136,2,0.2,1.9136
+Standard Class,Consumer,United States,Pharr,Texas,78577,Central,Furniture,Tables,124.404,4,0.3,-21.3264
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Furnishings,16.192,2,0.6,-6.8816
+Standard Class,Consumer,United States,Irving,Texas,75061,Central,Office Supplies,Storage,18.936,3,0.2,-3.7872
+Standard Class,Consumer,United States,Irving,Texas,75061,Central,Office Supplies,Storage,12.672,3,0.2,-3.168
+Standard Class,Consumer,United States,Irving,Texas,75061,Central,Office Supplies,Labels,5.04,2,0.2,1.764
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Paper,76.64,2,0.2,26.824
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Office Supplies,Envelopes,4.464,1,0.2,1.674
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Office Supplies,Binders,3.96,10,0.8,-6.93
+Second Class,Home Office,United States,Garland,Texas,75043,Central,Office Supplies,Art,30.384,1,0.2,3.798
+First Class,Home Office,United States,Dallas,Texas,75217,Central,Furniture,Tables,298.116,6,0.3,-4.2588
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,39.582,9,0.8,-59.373
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Supplies,44.688,7,0.2,5.0274
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Art,31.744,2,0.2,2.3808
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,40.98,5,0.8,-65.568
+Standard Class,Consumer,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,3.168,3,0.8,-5.0688
+Standard Class,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Fasteners,18.84,5,0.2,-3.5325
+Standard Class,Consumer,United States,El Paso,Texas,79907,Central,Furniture,Chairs,362.25,6,0.3,0.0
+Standard Class,Consumer,United States,El Paso,Texas,79907,Central,Furniture,Furnishings,63.552,6,0.6,-34.9536
+Standard Class,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Storage,129.552,3,0.2,-22.6716
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,16.448,2,0.2,5.5512
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Appliances,4.992,3,0.8,-12.9792
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Envelopes,87.92,5,0.2,29.673
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Furniture,Chairs,657.93,5,0.3,-93.99
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Binders,1.044,1,0.8,-1.827
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Accessories,106.08,6,0.2,-9.282
+Standard Class,Consumer,United States,Amarillo,Texas,79109,Central,Furniture,Furnishings,23.076,3,0.6,-10.9611
+Standard Class,Consumer,United States,Amarillo,Texas,79109,Central,Office Supplies,Paper,25.92,5,0.2,9.072
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,47.952,3,0.2,16.1838
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,0.984,2,0.8,-1.476
+First Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,75.384,9,0.6,-20.7306
+First Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Labels,4.608,2,0.2,1.6704
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Storage,454.56,5,0.2,-107.958
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Furnishings,141.42,5,0.6,-187.3815
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Chairs,310.744,4,0.3,-26.6352
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Art,12.736,4,0.2,2.2288
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Binders,6.47,5,0.8,-9.705
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Binders,13.748,14,0.8,-22.6842
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Office Supplies,Appliances,15.224,2,0.8,-38.8212
+First Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,89.0664,1,0.32,-17.0274
+First Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Art,175.44,6,0.2,52.632
+First Class,Home Office,United States,Houston,Texas,77041,Central,Technology,Phones,438.336,4,0.2,-87.6672
+Second Class,Consumer,United States,San Angelo,Texas,76903,Central,Furniture,Chairs,248.43,5,0.3,-17.745
+Second Class,Consumer,United States,San Angelo,Texas,76903,Central,Office Supplies,Appliances,11.648,4,0.8,-30.8672
+Second Class,Consumer,United States,San Angelo,Texas,76903,Central,Furniture,Chairs,85.246,2,0.3,-1.2178
+Second Class,Corporate,United States,Pasadena,Texas,77506,Central,Office Supplies,Art,20.64,5,0.2,2.322
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,2.934,3,0.8,-4.9878
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Accessories,18.528,2,0.2,4.4004
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Storage,670.752,3,0.2,-125.766
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Furniture,Furnishings,72.78,3,0.6,-70.9605
+Standard Class,Corporate,United States,Odessa,Texas,79762,Central,Office Supplies,Paper,16.032,3,0.2,5.6112
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Furniture,Furnishings,44.46,5,0.6,-17.784
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,314.088,3,0.2,19.6305
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Fasteners,4.344,3,0.2,0.8688
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,31.776,3,0.6,-19.0656
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Labels,4.928,2,0.2,1.7248
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Binders,1.788,3,0.8,-3.0396
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Office Supplies,Fasteners,15.072,4,0.2,-3.768
+Standard Class,Consumer,United States,Arlington,Texas,76017,Central,Office Supplies,Storage,12.624,2,0.2,-2.5248
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Office Supplies,Storage,137.352,3,0.2,8.5845
+Standard Class,Consumer,United States,Houston,Texas,77036,Central,Furniture,Tables,376.509,3,0.3,-43.0296
+Standard Class,Home Office,United States,League City,Texas,77573,Central,Furniture,Chairs,512.358,3,0.3,-14.6388
+Standard Class,Home Office,United States,League City,Texas,77573,Central,Office Supplies,Fasteners,3.488,2,0.2,0.5668
+Standard Class,Home Office,United States,League City,Texas,77573,Central,Office Supplies,Art,22.288,7,0.2,3.9004
+Standard Class,Home Office,United States,League City,Texas,77573,Central,Office Supplies,Paper,16.032,3,0.2,5.6112
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Art,45.04,2,0.2,4.504
+Standard Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,15.624,2,0.8,-24.9984
+Second Class,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Art,31.744,2,0.2,3.968
+Second Class,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Appliances,5.432,2,0.8,-13.58
+Second Class,Consumer,United States,El Paso,Texas,79907,Central,Furniture,Tables,913.43,5,0.3,-169.637
+Second Class,Consumer,United States,El Paso,Texas,79907,Central,Office Supplies,Storage,372.144,3,0.2,27.9108
+First Class,Consumer,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,4.984,1,0.8,-8.4728
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Storage,64.784,1,0.2,-14.5764
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Paper,15.552,3,0.2,5.6376
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Envelopes,223.888,7,0.2,69.965
+Standard Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Chairs,241.5,4,0.3,0.0
+First Class,Home Office,United States,Houston,Texas,77095,Central,Office Supplies,Binders,7.68,5,0.8,-11.52
+Standard Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Tables,933.408,4,0.3,-173.3472
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Office Supplies,Paper,51.84,10,0.2,18.144
+Standard Class,Corporate,United States,Arlington,Texas,76017,Central,Technology,Accessories,165.6,3,0.2,-6.21
+Second Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Office Supplies,Fasteners,6.048,4,0.2,-1.3608
+Second Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Office Supplies,Paper,6.848,2,0.2,2.14
+Second Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Furniture,Furnishings,9.96,5,0.6,-6.723
+Second Class,Corporate,United States,Corpus Christi,Texas,78415,Central,Office Supplies,Binders,8.552,2,0.8,-13.6832
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Chairs,344.372,4,0.3,-93.4724
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Storage,1554.936,3,0.2,77.7468
+Standard Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Furnishings,127.88,5,0.6,-67.137
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,25.68,3,0.8,-39.804
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,12.384,3,0.8,-19.8144
+Standard Class,Consumer,United States,Lubbock,Texas,79424,Central,Office Supplies,Paper,60.736,8,0.2,20.4984
+Standard Class,Consumer,United States,Lubbock,Texas,79424,Central,Technology,Copiers,479.976,3,0.2,161.9919
+Standard Class,Consumer,United States,Lubbock,Texas,79424,Central,Office Supplies,Binders,6.08,1,0.8,-10.336
+Standard Class,Consumer,United States,Amarillo,Texas,79109,Central,Furniture,Chairs,366.744,4,0.3,-110.0232
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Office Supplies,Binders,8.856,9,0.8,-14.1696
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Technology,Accessories,27.96,5,0.2,8.388
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Office Supplies,Envelopes,146.352,3,0.2,49.3938
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,73.784,2,0.6,-77.4732
+Second Class,Consumer,United States,Frisco,Texas,75034,Central,Furniture,Furnishings,30.336,6,0.6,-17.4432
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Labels,6.264,3,0.2,2.0358
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Fasteners,14.432,4,0.2,3.4276
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Phones,453.576,3,0.2,39.6879
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Labels,45.36,9,0.2,14.742
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Phones,287.88,3,0.2,35.985
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Technology,Phones,131.88,3,0.2,14.8365
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Furnishings,2.328,2,0.6,-0.7566
+First Class,Consumer,United States,The Colony,Texas,75056,Central,Technology,Phones,67.176,3,0.2,6.7176
+First Class,Consumer,United States,The Colony,Texas,75056,Central,Office Supplies,Paper,15.232,4,0.2,5.5216
+Same Day,Home Office,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,10.272,3,0.2,3.21
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Machines,998.85,5,0.4,-199.77
+Second Class,Corporate,United States,San Marcos,Texas,78666,Central,Furniture,Furnishings,10.332,3,0.6,-5.9409
+Second Class,Corporate,United States,San Marcos,Texas,78666,Central,Office Supplies,Paper,10.368,2,0.2,3.6288
+Second Class,Corporate,United States,San Marcos,Texas,78666,Central,Technology,Accessories,20.784,2,0.2,-3.6372
+Second Class,Corporate,United States,San Marcos,Texas,78666,Central,Office Supplies,Storage,66.96,5,0.2,-13.392
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Technology,Accessories,30.08,2,0.2,-5.264
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Technology,Accessories,165.6,3,0.2,-6.21
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Technology,Phones,180.96,5,0.2,13.572
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Furnishings,30.56,5,0.6,-19.864
+Standard Class,Corporate,United States,Dallas,Texas,75217,Central,Office Supplies,Binders,760.98,5,0.8,-1141.47
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,21.968,4,0.6,-15.9268
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,619.152,6,0.2,69.6546
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,127.904,7,0.2,41.5688
+First Class,Consumer,United States,Mansfield,Texas,76063,Central,Furniture,Tables,517.405,5,0.3,-81.3065
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Binders,8.608,8,0.8,-13.3424
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Technology,Accessories,159.56,5,0.2,33.9065
+First Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,115.136,8,0.2,11.5136
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Appliances,64.384,4,0.8,-160.96
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Furnishings,6.984,2,0.6,-4.5396
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Art,11.264,8,0.2,3.9424
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Paper,15.552,3,0.2,5.6376
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Chairs,379.372,2,0.3,-119.2312
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Storage,67.536,9,0.2,6.7536
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Binders,1.524,2,0.8,-2.667
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Art,5.344,2,0.2,0.7348
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,1.696,2,0.8,-2.544
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Appliances,24.588,3,0.8,-67.617
+Standard Class,Corporate,United States,Fort Worth,Texas,76106,Central,Office Supplies,Binders,7.98,5,0.8,-13.167
+First Class,Corporate,United States,Huntsville,Texas,77340,Central,Furniture,Chairs,528.43,5,0.3,0.0
+First Class,Corporate,United States,Huntsville,Texas,77340,Central,Office Supplies,Paper,41.472,8,0.2,14.5152
+First Class,Corporate,United States,Houston,Texas,77070,Central,Office Supplies,Art,55.328,2,0.2,6.2244
+First Class,Corporate,United States,Houston,Texas,77070,Central,Furniture,Bookcases,1227.9984,6,0.32,-36.1176
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,537.544,7,0.2,47.0351
+Standard Class,Consumer,United States,Austin,Texas,78745,Central,Office Supplies,Paper,335.52,4,0.2,117.432
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,26.72,5,0.2,9.352
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Paper,33.488,7,0.2,10.465
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Binders,21.99,5,0.8,-32.985
+Standard Class,Consumer,United States,Irving,Texas,75061,Central,Office Supplies,Supplies,185.376,2,0.2,-34.758
+Standard Class,Consumer,United States,Irving,Texas,75061,Central,Office Supplies,Appliances,58.924,1,0.8,-153.2024
+Standard Class,Consumer,United States,Texas City,Texas,77590,Central,Furniture,Tables,489.23,2,0.3,41.934
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Office Supplies,Storage,856.656,6,0.2,107.082
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Office Supplies,Binders,13.184,4,0.8,-20.4352
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Office Supplies,Appliances,48.784,4,0.8,-131.7168
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Office Supplies,Paper,76.64,2,0.2,26.824
+Standard Class,Corporate,United States,Austin,Texas,78745,Central,Office Supplies,Binders,18.528,6,0.8,-27.792
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Tables,609.98,4,0.3,-113.282
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Furniture,Tables,211.372,2,0.3,-45.294
+Standard Class,Consumer,United States,Huntsville,Texas,77340,Central,Technology,Phones,239.976,3,0.2,17.9982
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Phones,299.96,5,0.2,37.495
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Appliances,67.84,5,0.8,-179.776
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Chairs,853.93,5,0.3,-24.398
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Art,18.688,4,0.2,3.7376
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,1.248,2,0.8,-1.9344
+First Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,36.288,7,0.2,12.7008
+First Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,78.304,2,0.2,29.364
+First Class,Corporate,United States,Dallas,Texas,75220,Central,Furniture,Tables,127.785,1,0.3,-31.0335
+First Class,Corporate,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,6.104,2,0.8,-9.156
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Binders,1.72,1,0.8,-2.838
+First Class,Consumer,United States,Dallas,Texas,75081,Central,Technology,Phones,35.184,2,0.2,12.3144
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,56.704,2,0.2,19.1376
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Paper,274.064,7,0.2,102.774
+First Class,Home Office,United States,Houston,Texas,77036,Central,Technology,Accessories,100.8,2,0.2,21.42
+Same Day,Consumer,United States,Houston,Texas,77095,Central,Technology,Phones,55.176,3,0.2,-12.4146
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Appliances,93.032,2,0.8,-251.1864
+Standard Class,Corporate,United States,Houston,Texas,77041,Central,Furniture,Chairs,454.965,5,0.3,-136.4895
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Technology,Phones,369.544,7,0.2,27.7158
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Office Supplies,Paper,10.368,2,0.2,3.7584
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Technology,Accessories,791.88,3,0.2,128.6805
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Art,23.64,3,0.2,5.319
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Storage,84.784,2,0.2,-16.9568
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,64.96,5,0.6,-84.448
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Binders,32.06,10,0.8,-51.296
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Storage,177.648,2,0.2,-28.8678
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Technology,Machines,287.91,3,0.4,33.5895
+First Class,Corporate,United States,Haltom City,Texas,76117,Central,Office Supplies,Supplies,22.368,2,0.2,1.6776
+First Class,Corporate,United States,Haltom City,Texas,76117,Central,Office Supplies,Paper,32.368,7,0.2,11.7334
+First Class,Corporate,United States,Haltom City,Texas,76117,Central,Technology,Accessories,207.984,2,0.2,36.3972
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Furnishings,9.552,3,0.6,-3.8208
+Second Class,Home Office,United States,Houston,Texas,77070,Central,Furniture,Furnishings,5.344,4,0.6,-2.1376
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Storage,50.136,3,0.2,-11.2806
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,29.372,7,0.8,-46.9952
+Standard Class,Corporate,United States,San Antonio,Texas,78207,Central,Technology,Phones,344.704,2,0.2,38.7792
+Standard Class,Corporate,United States,Odessa,Texas,79762,Central,Office Supplies,Appliances,13.762,1,0.8,-24.7716
+Same Day,Home Office,United States,Bryan,Texas,77803,Central,Office Supplies,Binders,7.536,6,0.8,-13.188
+Same Day,Home Office,United States,Bryan,Texas,77803,Central,Office Supplies,Binders,1.408,2,0.8,-2.3232
+Same Day,Home Office,United States,Bryan,Texas,77803,Central,Office Supplies,Binders,4.144,4,0.8,-6.4232
+Same Day,Home Office,United States,Bryan,Texas,77803,Central,Office Supplies,Storage,52.752,3,0.2,-12.5286
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Office Supplies,Binders,6.888,3,0.8,-11.0208
+Standard Class,Home Office,United States,Dallas,Texas,75081,Central,Furniture,Tables,457.485,3,0.3,-84.9615
+Same Day,Corporate,United States,Waco,Texas,76706,Central,Office Supplies,Binders,0.556,1,0.8,-0.9452
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Technology,Accessories,41.424,2,0.2,8.2848
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Technology,Phones,244.768,4,0.2,24.4768
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Art,74.352,3,0.2,6.5058
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Binders,4.312,2,0.8,-6.8992
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Furniture,Chairs,56.686,1,0.3,-20.245
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Technology,Phones,97.968,2,0.2,6.123
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Art,7.872,3,0.2,0.8856
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Paper,15.552,3,0.2,5.4432
+Second Class,Corporate,United States,Mcallen,Texas,78501,Central,Office Supplies,Binders,1.476,1,0.8,-2.2878
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Labels,4.928,2,0.2,1.7248
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Art,63.488,4,0.2,4.7616
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Technology,Accessories,47.904,1,0.2,-2.994
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,11.376,3,0.6,-5.688
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Furnishings,66.112,4,0.6,-84.2928
+Standard Class,Home Office,United States,Houston,Texas,77070,Central,Office Supplies,Storage,228.92,5,0.2,14.3075
+First Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Binders,6.816,2,0.8,-11.5872
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Appliances,15.224,2,0.8,-38.8212
+Second Class,Corporate,United States,Houston,Texas,77041,Central,Office Supplies,Appliances,21.984,6,0.8,-56.0592
+Standard Class,Corporate,United States,Huntsville,Texas,77340,Central,Furniture,Chairs,1212.96,8,0.3,-69.312
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Technology,Phones,1099.96,5,0.2,82.497
+Standard Class,Corporate,United States,Dallas,Texas,75081,Central,Furniture,Tables,103.481,1,0.3,-16.2613
+First Class,Corporate,United States,Coppell,Texas,75019,Central,Technology,Phones,95.84,4,0.2,34.742
+Standard Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Storage,18.16,2,0.2,1.816
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Furniture,Bookcases,781.864,10,0.32,-137.976
+Second Class,Corporate,United States,Houston,Texas,77036,Central,Office Supplies,Paper,30.816,9,0.2,9.63
+Second Class,Consumer,United States,Dallas,Texas,75217,Central,Furniture,Bookcases,204.6664,1,0.32,-6.0196
+Same Day,Corporate,United States,Beaumont,Texas,77705,Central,Office Supplies,Storage,12.768,2,0.2,0.9576
+Standard Class,Home Office,United States,Dallas,Texas,75217,Central,Office Supplies,Storage,55.616,2,0.2,5.5616
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Labels,35.52,3,0.2,13.32
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Binders,6.23,5,0.8,-9.6565
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Office Supplies,Paper,56.704,2,0.2,19.1376
+Standard Class,Corporate,United States,Houston,Texas,77095,Central,Furniture,Bookcases,369.1992,3,0.32,-114.0174
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Furniture,Furnishings,5.312,2,0.6,-1.5936
+Second Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Chairs,105.686,1,0.3,-28.6862
+Second Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Machines,399.54,2,0.4,-79.908
+Second Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Chairs,104.93,5,0.3,-4.497
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Furniture,Furnishings,24.7,5,0.6,-9.88
+Standard Class,Home Office,United States,Pasadena,Texas,77506,Central,Furniture,Furnishings,302.72,5,0.6,-378.4
+Second Class,Corporate,United States,Mansfield,Texas,76063,Central,Office Supplies,Paper,41.472,8,0.2,14.5152
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Appliances,21.392,2,0.8,-54.5496
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Furniture,Tables,307.314,3,0.3,-39.5118
+First Class,Consumer,United States,Dallas,Texas,75220,Central,Furniture,Bookcases,409.9992,3,0.32,-96.4704
+First Class,Corporate,United States,Lubbock,Texas,79424,Central,Office Supplies,Paper,9.248,2,0.2,3.3524
+Second Class,Consumer,United States,Houston,Texas,77095,Central,Office Supplies,Storage,26.632,1,0.2,1.3316
+Standard Class,Home Office,United States,Arlington,Texas,76017,Central,Office Supplies,Binders,11.646,9,0.8,-17.469
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Furniture,Bookcases,613.9992,3,0.32,-18.0588
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Technology,Phones,79.96,5,0.2,7.996
+Same Day,Consumer,United States,Houston,Texas,77041,Central,Technology,Accessories,223.96,5,0.2,11.198
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,2177.584,8,0.8,-3701.8928
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Furniture,Furnishings,17.496,3,0.6,-10.0602
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,16.784,4,0.8,-26.8544
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Technology,Accessories,431.136,9,0.2,-26.946
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Binders,8.88,5,0.8,-13.32
+Standard Class,Consumer,United States,San Antonio,Texas,78207,Central,Office Supplies,Appliances,4.836,2,0.8,-12.09
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Bookcases,1023.332,5,0.32,-30.098
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Chairs,600.558,3,0.3,-8.5794
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Technology,Accessories,39.992,1,0.2,6.9986
+Standard Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Chairs,211.246,2,0.3,-66.3916
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Envelopes,56.064,6,0.2,21.024
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Furniture,Chairs,107.772,2,0.3,-29.2524
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Paper,4.832,1,0.2,1.6308
+Second Class,Consumer,United States,Houston,Texas,77070,Central,Office Supplies,Binders,18.24,3,0.8,-31.008
+Second Class,Consumer,United States,Beaumont,Texas,77705,Central,Technology,Accessories,319.968,4,0.2,95.9904
+Second Class,Consumer,United States,Beaumont,Texas,77705,Central,Furniture,Furnishings,8.624,7,0.6,-2.5872
+Second Class,Consumer,United States,Dallas,Texas,75220,Central,Office Supplies,Paper,3.984,1,0.2,1.4442
+First Class,Consumer,United States,La Porte,Texas,77571,Central,Furniture,Furnishings,14.0,4,0.6,-6.3
+First Class,Consumer,United States,La Porte,Texas,77571,Central,Office Supplies,Binders,16.392,2,0.8,-26.2272
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Furniture,Furnishings,25.128,3,0.6,-6.9102
+Standard Class,Consumer,United States,Carrollton,Texas,75007,Central,Technology,Accessories,127.984,2,0.2,25.5968
+Standard Class,Corporate,United States,Bryan,Texas,77803,Central,Furniture,Chairs,528.43,5,0.3,-143.431
+Standard Class,Corporate,United States,Bryan,Texas,77803,Central,Office Supplies,Binders,22.386,7,0.8,-35.8176
+First Class,Home Office,United States,Houston,Texas,77041,Central,Office Supplies,Paper,65.584,2,0.2,23.7742
+First Class,Home Office,United States,Houston,Texas,77041,Central,Furniture,Bookcases,383.4656,4,0.32,-67.6704
+Standard Class,Consumer,United States,Houston,Texas,77041,Central,Office Supplies,Envelopes,99.568,2,0.2,33.6042

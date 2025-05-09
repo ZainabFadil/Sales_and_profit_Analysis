@@ -1,0 +1,1129 @@
+Ship Mode,Segment,Country,City,State,Postal Code,Region,Category,Sub-Category,Sales,Quantity,Discount,Profit
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Fasteners,15.26,7,0.0,6.2566
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,1029.95,5,0.0,298.6855
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Storage,208.56,6,0.0,52.14
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Paper,32.4,5,0.0,15.552
+First Class,Consumer,United States,Troy,New York,12180,East,Furniture,Chairs,319.41,5,0.1,7.098
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Paper,14.56,2,0.0,6.9888
+First Class,Consumer,United States,Troy,New York,12180,East,Technology,Accessories,30.0,2,0.0,3.3
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Binders,48.48,4,0.2,16.362
+First Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Art,1.68,1,0.0,0.84
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,4.616,1,0.2,1.731
+Second Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,96.53,7,0.0,40.5426
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,41.96,2,0.0,10.9096
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Art,3.28,1,0.0,1.4104
+First Class,Home Office,United States,New York City,New York,10035,East,Furniture,Bookcases,899.136,4,0.2,112.392
+First Class,Home Office,United States,New York City,New York,10035,East,Technology,Phones,71.76,6,0.0,20.0928
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,51.84,8,0.0,24.8832
+First Class,Home Office,United States,New York City,New York,10035,East,Furniture,Bookcases,626.352,3,0.2,46.9764
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,19.9,5,0.0,6.567
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,80.58,6,0.0,22.5624
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Envelopes,361.92,4,0.0,162.864
+Second Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,20.37,3,0.0,6.9258
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,221.55,3,0.0,6.6465
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,17.52,5,0.2,6.132
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,26.8,2,0.0,12.864
+Standard Class,Home Office,United States,New York City,New York,10024,East,Furniture,Chairs,135.882,1,0.1,24.1568
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Machines,3991.98,2,0.0,1995.99
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,275.94,6,0.0,80.0226
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Accessories,360.0,4,0.0,129.6
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Storage,43.57,1,0.0,13.071
+First Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,6.79,1,0.0,2.3086
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,24.56,2,0.0,11.5432
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,3.048,1,0.2,1.0668
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,49.12,4,0.0,23.0864
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,4355.168,4,0.2,1415.4296
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,388.704,6,0.2,-4.8588
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Envelopes,8.26,2,0.0,3.7996
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,17.04,4,0.0,6.9864
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,34.4,5,0.0,15.824
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,20.7,2,0.0,9.936
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,488.646,3,0.1,86.8704
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,5.56,2,0.0,1.4456
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,47.12,8,0.0,20.7328
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,23.36,4,0.2,7.884
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,39.98,2,0.0,13.5932
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Appliances,35.91,3,0.0,9.6957
+First Class,Home Office,United States,New Rochelle,New York,10801,East,Technology,Machines,69.99,1,0.0,30.0957
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Chairs,207.846,3,0.1,2.3094
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,59.52,3,0.0,15.4752
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Storage,161.94,3,0.0,9.7164
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,263.88,6,0.0,71.2476
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,30.48,3,0.0,7.9248
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,9.84,3,0.0,2.8536
+Second Class,Consumer,United States,Auburn,New York,13021,East,Technology,Phones,35.12,4,0.0,9.1312
+Standard Class,Corporate,United States,Lindenhurst,New York,11757,East,Office Supplies,Paper,55.48,1,0.0,26.6304
+Standard Class,Consumer,United States,Troy,New York,12180,East,Furniture,Furnishings,40.2,3,0.0,19.296
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Art,14.7,5,0.0,6.615
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Storage,704.25,5,0.0,84.51
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,5.96,2,0.0,1.6688
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,159.98,2,0.0,57.5928
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Storage,449.15,5,0.0,8.983
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Envelopes,11.07,3,0.0,5.0922
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,15.92,5,0.2,5.373
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,10.752,4,0.2,3.36
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Binders,41.28,6,0.2,13.932
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,13.36,2,0.0,6.4128
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Labels,72.45,7,0.0,34.776
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Fasteners,13.96,4,0.0,6.4216
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,33.264,7,0.2,11.2266
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,14.85,3,0.0,4.0095
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,40.48,2,0.0,15.7872
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,9.94,2,0.0,3.0814
+Second Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,107.424,9,0.2,33.57
+Second Class,Corporate,United States,New York City,New York,10011,East,Technology,Phones,37.91,1,0.0,10.9939
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,88.02,3,0.0,27.2862
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,35.56,7,0.0,12.0904
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,379.4,10,0.0,178.318
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,97.82,2,0.0,45.9754
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,103.12,8,0.0,10.312
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,459.95,5,0.0,18.398
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,14.352,3,0.2,4.6644
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,64.96,2,0.0,2.5984
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,68.6,4,0.0,18.522
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,191.984,2,0.2,4.7996
+First Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,119.96,4,0.0,52.7824
+First Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,883.92,5,0.2,-110.49
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,46.72,8,0.2,15.768
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,55.48,1,0.0,26.6304
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Office Supplies,Appliances,281.34,6,0.0,109.7226
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Technology,Phones,307.98,2,0.0,89.3142
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Technology,Accessories,299.97,3,0.0,113.9886
+First Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Paper,182.72,8,0.0,84.0512
+First Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Tables,400.032,2,0.4,-153.3456
+First Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Storage,33.63,3,0.0,10.089
+First Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Chairs,542.646,3,0.1,102.4998
+First Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Labels,6.3,2,0.0,3.024
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,13.128,3,0.2,4.2666
+First Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Paper,132.79,7,0.0,63.7392
+First Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Paper,12.96,2,0.0,6.2208
+First Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Labels,21.56,7,0.0,10.3488
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Appliances,355.32,9,0.0,99.4896
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,60.45,3,0.0,16.3215
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,11.52,4,0.0,3.3408
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Bookcases,186.048,4,0.2,9.3024
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,44.46,2,0.0,14.6718
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,242.94,3,0.0,9.7176
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,39.96,2,0.0,18.7812
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Supplies,102.3,10,0.0,26.598
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,21.36,2,0.0,5.7672
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,11.36,2,0.0,5.2256
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,106.344,7,0.2,37.2204
+Second Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Binders,68.472,3,0.2,23.1093
+Second Class,Home Office,United States,New York City,New York,10024,East,Furniture,Chairs,1242.9,5,0.1,262.39
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Furniture,Furnishings,17.46,2,0.0,5.9364
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Technology,Accessories,149.95,5,0.0,14.995
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Office Supplies,Binders,51.312,3,0.2,18.6006
+Second Class,Corporate,United States,Auburn,New York,13021,East,Office Supplies,Paper,46.96,8,0.0,22.5408
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Bookcases,323.136,4,0.2,12.1176
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,90.93,7,0.0,2.7279
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,52.776,3,0.2,19.791
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,85.14,3,0.0,34.9074
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,21.99,1,0.0,10.5552
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Appliances,406.6,5,0.0,113.848
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,841.568,2,0.2,294.5488
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Labels,9.82,2,0.0,4.8118
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Art,35.97,3,0.0,9.7119
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Paper,12.96,2,0.0,6.2208
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Paper,191.6,4,0.0,91.968
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Labels,8.64,3,0.0,4.2336
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Storage,501.81,3,0.0,0.0
+Second Class,Home Office,United States,New York City,New York,10011,East,Technology,Phones,160.93,7,0.0,3.2186
+Second Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Binders,75.792,3,0.2,25.5798
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,599.292,6,0.1,93.2232
+Standard Class,Corporate,United States,Auburn,New York,13021,East,Furniture,Furnishings,520.05,5,0.0,72.807
+Standard Class,Corporate,United States,Auburn,New York,13021,East,Office Supplies,Art,17.97,3,0.0,5.2113
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,14.624,2,0.2,5.484
+Same Day,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,2309.65,7,0.0,762.1845
+Same Day,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,1090.782,7,0.4,-290.8752
+Same Day,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,19.44,3,0.0,9.3312
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,13.96,2,0.0,6.7008
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,155.82,3,0.0,63.8862
+Standard Class,Corporate,United States,New York City,New York,10011,East,Technology,Phones,124.95,5,0.0,2.499
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,601.65,5,0.0,156.429
+Second Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,31.86,2,0.0,11.151
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,722.352,3,0.2,90.294
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Art,11.16,2,0.0,4.3524
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,108.4,2,0.0,22.764
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,82.344,3,0.2,27.7911
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,9.088,4,0.2,3.2944
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,8.64,2,0.2,3.024
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Furniture,Tables,836.592,8,0.4,-264.9208
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Paper,26.38,1,0.0,12.1348
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Storage,362.92,2,0.0,105.2468
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Technology,Machines,4899.93,7,0.0,2400.9657
+Standard Class,Home Office,United States,New York City,New York,10035,East,Technology,Phones,9.99,1,0.0,4.5954
+Standard Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Binders,125.76,3,0.2,40.872
+Standard Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Binders,25.32,5,0.2,9.1785
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,109.48,2,0.0,33.9388
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,272.94,3,0.0,0.0
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,19.44,3,0.0,9.3312
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,31.92,4,0.0,8.2992
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,50.112,6,0.2,16.2864
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Storage,11.21,1,0.0,3.363
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,9.144,3,0.2,3.2004
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Fasteners,14.07,7,0.0,6.8943
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,41.86,7,0.0,10.465
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,8.544,2,0.2,2.8836
+Second Class,Corporate,United States,New York City,New York,10009,East,Furniture,Bookcases,579.136,4,0.2,21.7176
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,113.79,3,0.0,20.4822
+First Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,78.15,1,0.0,34.386
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,1.728,1,0.2,0.6048
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,40.56,4,0.0,19.8744
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,182.94,3,0.0,3.6588
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,193.86,2,0.0,11.6316
+Second Class,Consumer,United States,Buffalo,New York,14215,East,Office Supplies,Art,2.78,2,0.0,0.7228
+Second Class,Consumer,United States,Buffalo,New York,14215,East,Office Supplies,Envelopes,79.96,2,0.0,35.982
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,22.0,4,0.0,5.5
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,398.352,3,0.2,124.485
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Fasteners,8.72,4,0.0,3.5752
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,38.82,6,0.0,17.469
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,1141.938,9,0.1,139.5702
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Appliances,1704.56,13,0.0,511.368
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,3.2,2,0.0,1.376
+Second Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Binders,17.472,3,0.2,6.3336
+Standard Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,15.48,3,0.0,4.4892
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,39.88,2,0.0,11.1664
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,12.192,4,0.2,4.1148
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,20.82,3,0.0,7.4952
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,29.78,2,0.0,8.0406
+Second Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,677.58,3,0.0,176.1708
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,75.04,8,0.0,36.0192
+Standard Class,Consumer,United States,Freeport,New York,11520,East,Office Supplies,Art,47.82,3,0.0,14.346
+Standard Class,Consumer,United States,Freeport,New York,11520,East,Office Supplies,Labels,13.05,5,0.0,6.003
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,17.216,4,0.2,6.0256
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,11.56,2,0.0,5.6644
+First Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,88.4,4,0.0,11.492
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,6.48,1,0.0,3.1104
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,75.48,2,0.0,19.6248
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,39.98,2,0.0,9.995
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Chairs,408.006,2,0.1,72.5344
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,165.28,4,0.0,14.8752
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,334.768,7,0.2,108.7996
+First Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Fasteners,3.68,2,0.0,1.8032
+Standard Class,Home Office,United States,Niagara Falls,New York,14304,East,Office Supplies,Art,17.28,6,0.0,5.0112
+Standard Class,Home Office,United States,Niagara Falls,New York,14304,East,Office Supplies,Binders,17.712,3,0.2,6.4206
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Labels,28.91,7,0.0,13.2986
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Fasteners,3.76,2,0.0,1.316
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Envelopes,62.96,4,0.0,28.332
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,5.88,1,0.0,2.8812
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Chairs,977.292,6,0.1,173.7408
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,17.88,3,0.2,5.5875
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Storage,212.88,6,0.0,0.0
+Second Class,Corporate,United States,Watertown,New York,13601,East,Furniture,Bookcases,1573.488,7,0.2,196.686
+First Class,Consumer,United States,New York City,New York,10011,East,Technology,Copiers,559.992,1,0.2,174.9975
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Technology,Accessories,91.96,4,0.0,39.5428
+Same Day,Consumer,United States,New York City,New York,10011,East,Furniture,Tables,1044.63,5,0.4,-295.9785
+First Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Appliances,170.88,3,0.0,49.5552
+First Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,307.98,2,0.0,89.3142
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,382.806,9,0.4,-153.1224
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,41.96,2,0.0,2.9372
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,1217.568,2,0.2,456.588
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,47.04,3,0.0,18.3456
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,6.16,2,0.0,2.9568
+First Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,979.95,5,0.0,274.386
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,143.7,3,0.0,68.976
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Fasteners,10.65,3,0.0,5.0055
+First Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,247.8,4,0.0,34.692
+First Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,547.3,13,0.0,175.136
+Second Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Storage,59.48,2,0.0,8.922
+Second Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Paper,6.69,1,0.0,3.0774
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Appliances,523.25,5,0.0,141.2775
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Tables,1018.104,4,0.4,-373.3048
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,11.808,2,0.2,4.2804
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,1931.04,9,0.1,321.84
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,9.96,2,0.0,4.6812
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,7.712,2,0.2,2.7956
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Appliances,242.9,5,0.0,70.441
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,454.9,5,0.0,0.0
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,35.92,4,0.0,15.0864
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,39.76,8,0.0,12.3256
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,47.744,4,0.2,14.92
+First Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Art,13.36,2,0.0,4.9432
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,59.97,3,0.0,14.9925
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,83.36,1,0.0,20.84
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,48.94,1,0.0,24.47
+First Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Storage,63.84,8,0.0,16.5984
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,347.97,3,0.0,100.9113
+First Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Binders,37.008,6,0.2,11.565
+First Class,Consumer,United States,New York City,New York,10009,East,Furniture,Bookcases,257.568,2,0.2,-28.9764
+First Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,119.96,4,0.0,33.5888
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Furniture,Bookcases,176.784,1,0.2,-22.098
+Same Day,Consumer,United States,New York City,New York,10011,East,Office Supplies,Envelopes,29.34,3,0.0,14.67
+Same Day,Consumer,United States,New York City,New York,10011,East,Furniture,Chairs,383.607,7,0.1,63.9345
+Same Day,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,563.4,4,0.0,67.608
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Furnishings,18.96,2,0.0,8.532
+First Class,Corporate,United States,Watertown,New York,13601,East,Office Supplies,Binders,895.92,5,0.2,302.373
+First Class,Corporate,United States,Watertown,New York,13601,East,Furniture,Chairs,462.564,2,0.1,97.6524
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,23.1,2,0.0,6.468
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,11.54,2,0.0,3.462
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Tables,254.526,1,0.4,-93.3262
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Appliances,12.98,1,0.0,3.7642
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,26.432,8,0.2,8.9208
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,197.97,3,0.0,57.4113
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Labels,18.9,6,0.0,9.072
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Chairs,1282.41,5,0.1,213.735
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,4.92,3,0.0,2.214
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Accessories,238.0,2,0.0,38.08
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Accessories,167.97,3,0.0,40.3128
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,17.12,4,0.0,7.704
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,122.12,4,0.0,56.1752
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,18.45,5,0.0,8.6715
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,324.9,5,0.0,38.988
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,146.73,3,0.0,68.9631
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Fasteners,3.96,2,0.0,1.4652
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,221.92,4,0.0,106.5216
+Second Class,Corporate,United States,New York City,New York,10009,East,Technology,Accessories,26.0,2,0.0,11.7
+Second Class,Consumer,United States,Rochester,New York,14609,East,Furniture,Tables,209.67,1,0.4,-13.978
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,19.65,3,0.0,9.039
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,146.82,3,0.0,73.41
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Binders,149.544,9,0.2,50.4711
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Supplies,17.14,2,0.0,4.4564
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Furniture,Tables,991.764,3,0.4,-347.1174
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,84.95,5,0.0,22.087
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,14.16,2,0.2,5.133
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,85.232,7,0.2,30.8966
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,44.4,3,0.0,22.2
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,442.764,4,0.1,59.0352
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Machines,3999.95,5,0.0,1159.9855
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,199.95,5,0.0,21.9945
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,63.68,8,0.0,28.0192
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Art,16.52,4,0.0,7.5992
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,27.42,1,0.0,11.2422
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,330.588,1,0.4,-115.7058
+Same Day,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,166.24,1,0.0,24.936
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Paper,6.48,1,0.0,3.1104
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Binders,6.984,1,0.2,2.3571
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,4.95,1,0.0,1.3365
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,13.52,4,0.0,6.2192
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,259.7,5,0.0,106.477
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,42.95,1,0.0,1.2885
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,1399.93,7,0.0,601.9699
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,503.96,4,0.0,125.99
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,390.75,5,0.0,171.93
+Second Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,79.872,3,0.2,29.952
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Bookcases,46.384,1,0.2,1.1596
+Second Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,12.96,2,0.0,6.2208
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,25.92,4,0.0,12.4416
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,45.92,4,0.0,22.5008
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,1579.746,7,0.4,-447.5947
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,1071.576,4,0.4,-553.6476
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,613.908,3,0.4,-122.7816
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,34.86,7,0.0,16.3842
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,155.04,4,0.0,75.9696
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,6.48,1,0.0,3.1104
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,41.86,7,0.0,20.5114
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,1619.91,9,0.0,97.1946
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,113.92,4,0.0,42.1504
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,37.6,2,0.0,2.256
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,59.9,2,0.0,23.96
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,37.0,5,0.0,16.65
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,366.786,7,0.1,65.2064
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Labels,18.75,5,0.0,9.0
+Second Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,119.7,6,0.0,31.122
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,9.144,3,0.2,3.0861
+Second Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,57.06,3,0.0,18.2592
+Second Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,71.6,8,0.0,13.604
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,107.44,8,0.0,27.9344
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Labels,7.31,1,0.0,3.4357
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Art,59.1,6,0.0,22.458
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,46.53,3,0.0,12.0978
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,83.92,5,0.2,29.372
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,14.624,2,0.2,5.1184
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,136.99,1,0.0,36.9873
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,3.15,1,0.0,1.512
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Art,5.46,3,0.0,1.4742
+Second Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,631.96,4,0.0,303.3408
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,23.92,4,0.0,10.764
+Standard Class,Consumer,United States,Jamestown,New York,14701,East,Technology,Phones,4548.81,7,0.0,1228.1787
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,50.0,2,0.0,12.0
+Second Class,Corporate,United States,New York City,New York,10009,East,Technology,Accessories,15.02,1,0.0,2.7036
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Storage,33.82,2,0.0,9.1314
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,478.08,8,0.0,133.8624
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,248.57,7,0.0,67.1139
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,22.23,1,0.0,9.7812
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Appliances,121.94,2,0.0,35.3626
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Supplies,122.71,7,0.0,36.813
+Same Day,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,14.94,3,0.0,7.0218
+Same Day,Consumer,United States,New York City,New York,10035,East,Technology,Machines,1349.85,3,0.0,364.4595
+Same Day,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,136.784,1,0.2,5.1294
+Same Day,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,61.12,4,0.0,20.7808
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Copiers,11199.968,4,0.2,3919.9888
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,2399.6,8,0.0,647.892
+First Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Envelopes,63.9,5,0.0,28.755
+First Class,Home Office,United States,New York City,New York,10024,East,Technology,Phones,52.99,1,0.0,0.5299
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,19.04,4,0.0,9.3296
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,13.128,3,0.2,4.2666
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,64.14,3,0.0,16.6764
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,858.24,4,0.1,143.04
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,1979.89,11,0.0,494.9725
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Envelopes,79.96,2,0.0,35.982
+Second Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,132.6,6,0.0,17.238
+Second Class,Consumer,United States,Troy,New York,12180,East,Office Supplies,Art,60.12,9,0.0,22.2444
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,129.98,2,0.0,62.3904
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,377.97,3,0.0,109.6113
+Second Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,239.97,3,0.0,71.991
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Labels,59.2,4,0.0,29.6
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Storage,120.33,1,0.0,31.2858
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Furnishings,14.98,1,0.0,6.8908
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Furnishings,20.32,4,0.0,6.9088
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Fasteners,6.03,3,0.0,2.9547
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Paper,11.56,2,0.0,5.6644
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Office Supplies,Paper,26.4,5,0.0,11.88
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Furniture,Furnishings,69.08,11,0.0,29.0136
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Technology,Phones,35.88,3,0.0,10.0464
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Art,49.65,5,0.0,20.853
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Copiers,479.984,2,0.2,59.998
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Labels,12.6,4,0.0,6.048
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Office Supplies,Envelopes,41.4,5,0.0,19.458
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Office Supplies,Art,35.0,4,0.0,10.5
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Office Supplies,Binders,39.552,3,0.2,14.3376
+First Class,Consumer,United States,Watertown,New York,13601,East,Office Supplies,Appliances,19.9,1,0.0,8.955
+First Class,Consumer,United States,Watertown,New York,13601,East,Furniture,Furnishings,70.71,1,0.0,4.9497
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,39.99,1,0.0,11.5971
+Standard Class,Home Office,United States,Watertown,New York,13601,East,Furniture,Chairs,191.646,3,0.1,31.941
+Second Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Storage,22.58,2,0.0,5.8708
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Appliances,61.44,3,0.0,16.5888
+Standard Class,Home Office,United States,Rochester,New York,14609,East,Office Supplies,Binders,33.376,4,0.2,10.43
+First Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Appliances,207.48,1,0.0,62.244
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Appliances,904.9,5,0.0,253.372
+Standard Class,Home Office,United States,New York City,New York,10035,East,Furniture,Tables,344.22,2,0.4,-103.266
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,52.272,11,0.2,17.6418
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,17.94,3,0.0,8.073
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,3.928,1,0.2,1.3257
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,10.776,3,0.2,3.5022
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,242.352,3,0.2,9.0882
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,25.68,6,0.0,11.556
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,49.12,4,0.0,23.0864
+First Class,Corporate,United States,Oceanside,New York,11572,East,Furniture,Furnishings,13.28,2,0.0,6.3744
+First Class,Corporate,United States,Oceanside,New York,11572,East,Office Supplies,Binders,12.672,3,0.2,4.4352
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Appliances,206.43,3,0.0,90.8292
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,32.4,5,0.0,15.552
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Tables,284.364,2,0.4,-75.8304
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Accessories,26.0,2,0.0,11.7
+Same Day,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,18.76,2,0.0,9.0048
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,20.94,3,0.0,6.0726
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,58.68,2,0.0,18.1908
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Appliances,254.9,5,0.0,68.823
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,65.99,1,0.0,17.1574
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,29.97,3,0.0,14.0859
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,931.176,3,0.2,314.2719
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,430.88,2,0.0,124.9552
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,375.34,1,0.0,18.767
+Second Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,114.9,5,0.0,39.066
+Same Day,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,44.94,3,0.0,12.5832
+Same Day,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,45.576,3,0.2,15.9516
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,15.24,3,0.0,5.1816
+First Class,Home Office,United States,New York City,New York,10035,East,Technology,Machines,1704.89,11,0.0,767.2005
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,25.344,6,0.2,8.8704
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,232.4,5,0.2,78.435
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Furniture,Chairs,271.764,2,0.1,48.3136
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Binders,14.376,3,0.2,4.8519
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Appliances,68.94,3,0.0,20.682
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,128.82,3,0.0,50.2398
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,89.97,3,0.0,18.8937
+Second Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,30.44,4,0.0,14.3068
+Second Class,Home Office,United States,New York City,New York,10024,East,Furniture,Furnishings,35.28,3,0.0,11.9952
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Furniture,Furnishings,28.44,3,0.0,11.376
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Furniture,Chairs,364.41,5,0.1,8.098
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Technology,Phones,39.96,4,0.0,10.3896
+Standard Class,Consumer,United States,Hempstead,New York,11550,East,Furniture,Chairs,361.764,2,0.1,68.3332
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Envelopes,17.94,3,0.0,8.7906
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,384.174,7,0.1,29.8802
+Second Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,1799.75,5,0.0,539.925
+Standard Class,Home Office,United States,New York City,New York,10024,East,Furniture,Chairs,271.764,2,0.1,60.392
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,108.92,14,0.0,49.014
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Envelopes,16.74,3,0.0,8.37
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Appliances,2504.74,7,0.0,626.185
+First Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,70.88,2,0.0,33.3136
+Second Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Storage,900.08,4,0.0,117.0104
+Same Day,Corporate,United States,New York City,New York,10035,East,Office Supplies,Supplies,54.9,5,0.0,15.372
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,40.74,3,0.0,0.4074
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Art,11.68,2,0.0,5.4896
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Art,104.8,10,0.0,26.2
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,465.18,3,0.0,120.9468
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Envelopes,29.34,3,0.0,13.4964
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,139.44,3,0.2,47.061
+Second Class,Home Office,United States,Yonkers,New York,10701,East,Technology,Accessories,163.96,4,0.0,70.5028
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Furniture,Furnishings,37.93,1,0.0,6.8274
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,26.38,1,0.0,12.1348
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,71.97,3,0.0,16.5531
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Envelopes,16.52,4,0.0,7.5992
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,60.12,9,0.0,28.8576
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,49.536,3,0.2,17.3376
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,37.94,2,0.0,18.2112
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,29.79,3,0.0,12.5118
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,12.816,3,0.2,4.3254
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,314.352,3,0.2,-15.7176
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,18.98,2,0.0,8.9206
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,18.24,6,0.2,6.156
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,991.2,6,0.0,257.712
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Copiers,879.984,2,0.2,329.994
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,12.96,9,0.2,4.536
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Binders,40.176,3,0.2,14.5638
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Binders,10.896,3,0.2,3.9498
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,19.44,3,0.0,9.3312
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,9.82,2,0.0,3.2406
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,14.56,2,0.0,6.2608
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,3.048,1,0.2,1.0287
+Standard Class,Consumer,United States,Buffalo,New York,14215,East,Office Supplies,Supplies,835.17,7,0.0,16.7034
+Second Class,Consumer,United States,Freeport,New York,11520,East,Office Supplies,Binders,17.248,2,0.2,6.0368
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,88.04,4,0.0,22.8904
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,13.48,2,0.0,6.74
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,29.8,5,0.2,9.3125
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,414.0,8,0.0,124.2
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,41.328,7,0.2,14.9814
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,53.316,2,0.4,-19.5492
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Appliances,56.52,3,0.0,15.8256
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,80.88,3,0.0,39.6312
+First Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,599.9,10,0.0,191.968
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,276.69,3,0.0,49.8042
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Chairs,172.764,2,0.1,32.6332
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Labels,20.7,2,0.0,9.936
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Supplies,10.95,3,0.0,3.285
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,14.352,3,0.2,4.6644
+Same Day,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,13.96,2,0.0,0.2792
+Same Day,Consumer,United States,New York City,New York,10011,East,Furniture,Tables,27.414,3,0.4,-14.1639
+Standard Class,Corporate,United States,Watertown,New York,13601,East,Office Supplies,Appliances,35.91,3,0.0,9.6957
+Standard Class,Consumer,United States,Freeport,New York,11520,East,Furniture,Furnishings,322.59,3,0.0,64.518
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,539.97,3,0.0,134.9925
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,22.58,2,0.0,5.8708
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Paper,19.44,3,0.0,9.3312
+Standard Class,Home Office,United States,New York City,New York,10035,East,Technology,Accessories,319.96,4,0.0,115.1856
+Standard Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,17.04,3,0.0,7.668
+Standard Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Storage,344.91,3,0.0,10.3473
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Labels,21.93,3,0.0,10.3071
+Same Day,Home Office,United States,New York City,New York,10024,East,Office Supplies,Labels,7.31,1,0.0,3.4357
+Same Day,Home Office,United States,New York City,New York,10024,East,Technology,Copiers,799.984,2,0.2,249.995
+Same Day,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,41.28,6,0.0,18.9888
+Same Day,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,184.66,7,0.0,84.9436
+Standard Class,Consumer,United States,Mount Vernon,New York,10550,East,Office Supplies,Envelopes,62.28,4,0.0,29.2716
+Same Day,Corporate,United States,New York City,New York,10011,East,Furniture,Chairs,887.103,7,0.1,177.4206
+Second Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Envelopes,47.98,2,0.0,23.99
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Paper,11.36,2,0.0,5.2256
+Standard Class,Home Office,United States,New York City,New York,10011,East,Furniture,Chairs,69.264,2,0.1,14.6224
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Appliances,16.78,2,0.0,4.195
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,42.93,9,0.0,19.3185
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Furniture,Chairs,631.782,2,0.1,140.396
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Furniture,Furnishings,60.72,3,0.0,26.1096
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,46.76,7,0.0,22.4448
+First Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,183.968,2,0.2,-25.2956
+First Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,1259.97,3,0.0,327.5922
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,68.97,3,0.0,19.3116
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,21.24,3,0.0,8.0712
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,19.65,3,0.0,9.039
+First Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,617.97,3,0.0,160.6722
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Appliances,59.7,3,0.0,26.865
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,16.38,9,0.0,7.371
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Envelopes,167.96,2,0.0,78.9412
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,321.568,2,0.2,-16.0784
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,12.96,2,0.0,6.2208
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,24.9,5,0.0,11.703
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Labels,34.86,7,0.0,16.0356
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,89.34,6,0.0,24.1218
+Standard Class,Home Office,United States,Rome,New York,13440,East,Technology,Phones,269.98,2,0.0,67.495
+Standard Class,Home Office,United States,Rome,New York,13440,East,Office Supplies,Paper,99.9,5,0.0,47.952
+Standard Class,Home Office,United States,Rome,New York,13440,East,Furniture,Furnishings,39.08,4,0.0,14.4596
+First Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,408.006,2,0.1,72.5344
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,40.44,3,0.0,10.5144
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,65.78,11,0.0,32.2322
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Technology,Phones,45.99,1,0.0,13.3371
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Storage,535.41,3,0.0,160.623
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Binders,6.096,2,0.2,2.0574
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Paper,45.36,7,0.0,21.7728
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,77.55,5,0.0,20.163
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,24.88,2,0.0,6.9664
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Art,140.75,5,0.0,39.41
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,36.63,3,0.0,9.8901
+Standard Class,Home Office,United States,New York City,New York,10011,East,Furniture,Chairs,145.764,2,0.1,-8.098
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Chairs,434.646,3,0.1,62.7822
+Second Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Fasteners,29.61,9,0.0,13.3245
+Second Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Storage,1117.92,4,0.0,55.896
+Second Class,Home Office,United States,New York City,New York,10009,East,Furniture,Bookcases,275.952,3,0.2,-37.9434
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Chairs,658.746,3,0.1,146.388
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,783.96,4,0.0,219.5088
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,48.896,2,0.2,18.336
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,7.856,2,0.2,2.8478
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Art,25.99,1,0.0,7.5371
+Second Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Labels,8.67,3,0.0,4.0749
+Second Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Supplies,25.71,3,0.0,6.6846
+First Class,Consumer,United States,Buffalo,New York,14215,East,Furniture,Chairs,63.882,1,0.1,10.647
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,24.96,4,0.0,11.232
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,13.776,3,0.2,4.4772
+Second Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Binders,10.512,3,0.2,3.6792
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,20.368,1,0.2,7.3834
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,49.848,3,0.2,16.8237
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,239.97,3,0.0,67.1916
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,25.92,6,0.2,9.072
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Labels,91.59,3,0.0,42.1314
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,57.75,5,0.0,16.17
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,14.94,3,0.0,7.0218
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,12.42,3,0.0,5.2164
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,85.9,2,0.0,2.577
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,21.36,5,0.2,7.209
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,6.688,2,0.2,2.3408
+First Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,773.94,6,0.0,224.4426
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,14.4,5,0.0,7.056
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Binders,52.064,4,0.2,18.8732
+Standard Class,Home Office,United States,New York City,New York,10035,East,Technology,Machines,2321.9,2,0.0,1114.512
+Standard Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Storage,17.94,3,0.0,3.0498
+Second Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Supplies,347.58,3,0.0,17.379
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,35.48,1,0.0,0.0
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Fasteners,34.44,3,0.0,16.1868
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Technology,Machines,629.93,7,0.0,296.0671
+Standard Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Binders,79.056,9,0.2,28.6578
+Same Day,Consumer,United States,New York City,New York,10009,East,Furniture,Tables,464.292,9,0.4,-108.3348
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Envelopes,68.46,7,0.0,31.4916
+Same Day,Consumer,United States,New York City,New York,10009,East,Technology,Machines,2799.96,4,0.0,1371.9804
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Appliances,601.3,2,0.0,198.429
+Same Day,Consumer,United States,New York City,New York,10009,East,Technology,Phones,16.99,1,0.0,4.4174
+Same Day,Consumer,United States,New York City,New York,10009,East,Technology,Phones,287.97,3,0.0,80.6316
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,44.82,9,0.0,21.0654
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Appliances,58.73,7,0.0,14.6825
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,93.344,4,0.2,32.6704
+Standard Class,Consumer,United States,Mount Vernon,New York,10550,East,Office Supplies,Envelopes,23.34,3,0.0,10.9698
+Standard Class,Consumer,United States,Mount Vernon,New York,10550,East,Office Supplies,Paper,51.55,5,0.0,24.2285
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,1317.492,6,0.1,292.776
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Supplies,63.84,8,0.0,18.5136
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,3.592,1,0.2,1.1225
+Same Day,Consumer,United States,Long Beach,New York,11561,East,Technology,Phones,1214.85,3,0.0,352.3065
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,2.688,1,0.2,0.84
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Art,6.6,3,0.0,2.904
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,4.992,3,0.2,1.6848
+Standard Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Art,9.26,2,0.0,3.0558
+Standard Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Storage,105.98,2,0.0,4.2392
+Standard Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Fasteners,1.24,1,0.0,0.5828
+Standard Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Labels,20.7,2,0.0,9.936
+Standard Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Paper,28.9,5,0.0,14.161
+Standard Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Envelopes,27.18,1,0.0,12.7746
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,36.63,3,0.0,9.8901
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Art,8.4,5,0.0,4.2
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,36.56,5,0.2,12.796
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,186.144,6,0.2,60.4968
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Bookcases,353.568,2,0.2,-44.196
+Standard Class,Home Office,United States,Yonkers,New York,10701,East,Technology,Machines,52.44,4,0.0,24.1224
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Furniture,Furnishings,14.89,1,0.0,4.0203
+Standard Class,Consumer,United States,Yonkers,New York,10701,East,Technology,Phones,543.92,8,0.0,135.98
+Standard Class,Corporate,United States,Oceanside,New York,11572,East,Furniture,Furnishings,68.95,5,0.0,28.959
+Standard Class,Corporate,United States,Oceanside,New York,11572,East,Office Supplies,Storage,296.37,3,0.0,80.0199
+Standard Class,Corporate,United States,Oceanside,New York,11572,East,Technology,Phones,39.98,2,0.0,1.999
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,33.568,2,0.2,11.7488
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,63.94,1,0.0,24.9366
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,60.6,5,0.2,20.4525
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Supplies,22.72,4,0.0,6.5888
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Storage,244.55,5,0.0,4.891
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Office Supplies,Envelopes,12.24,6,0.0,5.7528
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Technology,Accessories,13.98,2,0.0,6.0114
+Second Class,Consumer,United States,Oceanside,New York,11572,East,Technology,Accessories,899.95,5,0.0,53.997
+Second Class,Consumer,United States,Rochester,New York,14609,East,Technology,Accessories,31.95,1,0.0,2.2365
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,24.672,4,0.2,7.71
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,3.744,1,0.2,1.3104
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,588.784,2,0.2,183.995
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,99.6,1,0.0,36.852
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,62.296,13,0.2,21.0249
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,10.71,3,0.0,2.7846
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,33.0,6,0.0,8.25
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,249.95,5,0.0,87.4825
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,6.56,2,0.0,1.9024
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Labels,7.83,3,0.0,3.6018
+Second Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,41.9,2,0.0,8.799
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Chairs,664.146,6,0.1,88.5528
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,8.96,2,0.0,4.3904
+First Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,239.97,3,0.0,2.3997
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Appliances,160.32,2,0.0,44.8896
+First Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,128.85,3,0.0,3.8655
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,37.94,2,0.0,18.2112
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Art,8.0,5,0.0,3.44
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Storage,83.56,4,0.0,1.6712
+Standard Class,Home Office,United States,New York City,New York,10011,East,Technology,Phones,546.06,3,0.0,163.818
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Storage,269.49,3,0.0,5.3898
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,590.352,6,0.2,206.6232
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,11.05,5,0.0,2.9835
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,117.96,2,0.0,5.898
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,21.3,5,0.0,8.733
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Appliances,1040.8,5,0.0,281.016
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,29.34,6,0.0,7.9218
+Second Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,10.528,7,0.2,3.6848
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,40.99,1,0.0,20.0851
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,40.176,3,0.2,14.5638
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,79.44,3,0.0,30.1872
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Supplies,357.93,3,0.0,7.1586
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Chairs,127.764,2,0.1,21.294
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Copiers,2799.944,7,0.2,1014.9797
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,19.44,3,0.0,9.3312
+Standard Class,Home Office,United States,New York City,New York,10035,East,Technology,Phones,5.94,3,0.0,1.6038
+First Class,Corporate,United States,New York City,New York,10011,East,Technology,Accessories,899.91,9,0.0,395.9604
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,13.92,3,0.2,4.872
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Technology,Phones,74.95,5,0.0,36.7255
+First Class,Corporate,United States,Long Beach,New York,11561,East,Furniture,Chairs,1448.82,10,0.1,209.274
+Standard Class,Consumer,United States,Auburn,New York,13021,East,Office Supplies,Binders,15.528,3,0.2,5.823
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,1395.54,9,0.0,362.8404
+Second Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,117.36,4,0.0,36.3816
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Labels,18.9,3,0.0,8.694
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,77.52,2,0.0,37.9848
+First Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,19.44,3,0.0,9.3312
+Same Day,Consumer,United States,Utica,New York,13501,East,Technology,Phones,279.96,4,0.0,78.3888
+Same Day,Consumer,United States,Utica,New York,13501,East,Office Supplies,Binders,12.912,3,0.2,4.6806
+Same Day,Consumer,United States,Utica,New York,13501,East,Office Supplies,Binders,17.088,4,0.2,5.7672
+Same Day,Consumer,United States,Utica,New York,13501,East,Office Supplies,Labels,93.15,9,0.0,44.712
+Same Day,Consumer,United States,Utica,New York,13501,East,Office Supplies,Labels,11.52,4,0.0,5.6448
+Second Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Paper,419.4,4,0.0,201.312
+Second Class,Home Office,United States,New York City,New York,10035,East,Furniture,Chairs,90.801,1,0.1,14.1246
+Second Class,Home Office,United States,New York City,New York,10035,East,Furniture,Chairs,181.764,2,0.1,-8.0784
+Second Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,5.56,2,0.0,2.224
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,192.16,4,0.0,92.2368
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,14.9,5,0.0,1.043
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Labels,87.71,7,0.0,41.2237
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,199.764,2,0.1,8.8784
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,94.6,4,0.0,27.434
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,4228.704,6,0.2,158.5764
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,2003.92,5,0.2,-25.049
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,209.97,3,0.0,58.7916
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,659.9,2,0.0,217.767
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,110.96,2,0.0,53.2608
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,67.8,4,0.0,1.356
+Second Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,313.176,2,0.4,-120.0508
+First Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,10.5,5,0.0,2.94
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,81.98,2,0.0,40.1702
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,240.784,1,0.2,30.098
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Appliances,414.96,2,0.0,124.488
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,12.96,2,0.0,6.3504
+Standard Class,Consumer,United States,Troy,New York,12180,East,Furniture,Chairs,109.764,2,0.1,8.5372
+First Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Supplies,54.9,5,0.0,15.372
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Envelopes,11.36,2,0.0,5.3392
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,36.4,5,0.0,17.472
+Standard Class,Home Office,United States,Rochester,New York,14609,East,Office Supplies,Storage,142.04,4,0.0,38.3508
+Standard Class,Home Office,United States,Rochester,New York,14609,East,Office Supplies,Art,14.67,3,0.0,6.0147
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,468.9,6,0.0,206.316
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,72.48,2,0.0,30.4416
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Supplies,10.95,3,0.0,3.285
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,191.82,3,0.0,61.3824
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,272.646,3,0.1,18.1764
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,212.8,2,0.0,95.76
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,38.52,9,0.0,18.1044
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,72.64,2,0.0,21.792
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,45.4,4,0.0,12.712
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,13.76,2,0.0,6.3296
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,80.991,1,0.1,8.0991
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,11.784,3,0.2,3.9771
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Fasteners,4.36,2,0.0,1.7876
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,2888.127,11,0.1,609.7157
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,1299.66,2,0.0,350.9082
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,2254.41,5,0.1,375.735
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,104.85,3,0.0,28.3095
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,59.97,3,0.0,20.3898
+Standard Class,Home Office,United States,New York City,New York,10011,East,Technology,Phones,2279.96,4,0.0,592.7896
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Labels,14.94,3,0.0,6.8724
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,327.996,6,0.1,54.666
+Standard Class,Home Office,United States,New York City,New York,10011,East,Furniture,Chairs,767.214,14,0.1,161.9674
+Second Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,34.248,3,0.2,11.5587
+Second Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,3.52,2,0.0,1.0208
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Storage,70.95,3,0.0,20.5755
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,34.944,6,0.2,11.7936
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Art,119.04,6,0.0,35.712
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,799.56,9,0.0,207.8856
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,68.16,3,0.0,27.9456
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Envelopes,62.24,8,0.0,29.2528
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,26.336,4,0.2,9.2176
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Envelopes,22.92,3,0.0,11.2308
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Labels,41.4,4,0.0,19.872
+First Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,33.552,1,0.2,12.582
+Same Day,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,6.68,1,0.0,3.2064
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Office Supplies,Binders,7.752,3,0.2,2.8101
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,49.12,4,0.0,23.0864
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,18.28,5,0.2,6.398
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,87.8,4,0.0,43.9
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Chairs,221.382,2,0.1,2.4598
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Machines,5199.96,4,0.0,1351.9896
+Same Day,Home Office,United States,New York City,New York,10024,East,Office Supplies,Labels,24.55,5,0.0,12.0295
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Appliances,8.39,1,0.0,2.0975
+Standard Class,Corporate,United States,New York City,New York,10011,East,Technology,Phones,337.98,2,0.0,101.394
+First Class,Home Office,United States,New York City,New York,10009,East,Technology,Phones,41.22,1,0.0,11.1294
+First Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Supplies,240.37,1,0.0,7.2111
+First Class,Home Office,United States,New York City,New York,10009,East,Technology,Phones,119.02,2,0.0,33.3256
+Same Day,Home Office,United States,New York City,New York,10009,East,Furniture,Bookcases,113.568,2,0.2,12.7764
+Second Class,Home Office,United States,New York City,New York,10009,East,Furniture,Furnishings,83.92,4,0.0,21.8192
+Second Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Art,6.63,3,0.0,3.1161
+Second Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,371.97,3,0.0,66.9546
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,14.62,2,0.0,6.7252
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Labels,5.76,2,0.0,2.8224
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Fasteners,21.48,6,0.0,10.5252
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,396.92,4,0.0,198.46
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,17.15,1,0.0,4.6305
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,23.12,2,0.2,7.803
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Chairs,589.41,5,0.1,-6.549
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Art,34.7,5,0.0,12.492
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Storage,99.87,3,0.0,23.9688
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,37.94,2,0.0,18.2112
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Labels,24.9,5,0.0,11.454
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,82.26,3,0.0,33.7266
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,135.99,1,0.0,36.7173
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,15.96,7,0.0,7.0224
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,384.768,2,0.4,-115.4304
+Standard Class,Corporate,United States,New York City,New York,10011,East,Technology,Machines,78.66,6,0.0,36.1836
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Paper,45.36,4,0.0,22.2264
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,32.4,5,0.0,15.552
+Second Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,1247.64,3,0.0,349.3392
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,279.9,5,0.0,137.151
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,50.352,3,0.2,17.6232
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,34.02,3,0.0,16.6698
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Storage,216.4,4,0.0,56.264
+Standard Class,Consumer,United States,Buffalo,New York,14215,East,Office Supplies,Binders,2152.776,3,0.2,726.5619
+Standard Class,Consumer,United States,Buffalo,New York,14215,East,Furniture,Bookcases,4007.84,10,0.2,-50.098
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,327.564,4,0.1,21.8376
+Standard Class,Corporate,United States,Buffalo,New York,14215,East,Furniture,Chairs,1522.638,9,0.1,169.182
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,33.568,2,0.2,11.7488
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Machines,6999.96,4,0.0,2239.9872
+Second Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,279.86,14,0.0,134.3328
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Art,6.99,3,0.0,2.0271
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,107.424,6,0.2,36.2556
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,415.176,3,0.2,134.9322
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,35.232,3,0.2,11.4504
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,54.96,1,0.0,26.9304
+First Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,629.95,5,0.0,163.787
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,14.952,1,0.2,5.0463
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,17.94,3,0.0,8.073
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,116.98,2,0.0,29.245
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,272.94,3,0.0,0.0
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Chairs,253.764,2,0.1,31.0156
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,17.64,4,0.0,8.1144
+Standard Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,449.91,9,0.0,157.4685
+Second Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,197.97,3,0.0,53.4519
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Appliances,17.48,4,0.0,4.5448
+Standard Class,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,559.93,7,0.0,167.979
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Envelopes,16.98,1,0.0,8.49
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,23.66,7,0.0,10.8836
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,681.408,12,0.2,42.588
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,102.368,2,0.2,37.1084
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Supplies,28.4,5,0.0,8.236
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Storage,713.88,4,0.0,214.164
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,68.52,3,0.0,31.5192
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Bookcases,523.92,5,0.2,-26.196
+Same Day,Home Office,United States,New York City,New York,10011,East,Office Supplies,Binders,58.408,7,0.2,18.2525
+Same Day,Home Office,United States,New York City,New York,10011,East,Furniture,Tables,79.974,3,0.4,-29.3238
+Second Class,Corporate,United States,New York City,New York,10011,East,Technology,Phones,824.97,3,0.0,214.4922
+First Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Fasteners,5.92,4,0.0,2.8416
+First Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,30.18,3,0.0,13.8828
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,205.164,2,0.1,13.6776
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,17.96,5,0.2,5.837
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Supplies,5.04,2,0.0,0.1512
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Appliances,208.16,1,0.0,56.2032
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Labels,25.83,7,0.0,12.1401
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,227.46,6,0.0,65.9634
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,46.24,4,0.2,15.606
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Labels,5.22,2,0.0,2.4012
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,28.14,3,0.0,7.8792
+Standard Class,Corporate,United States,New York City,New York,10011,East,Technology,Accessories,36.0,2,0.0,6.48
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Art,92.94,3,0.0,25.0938
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Chairs,245.646,3,0.1,8.1882
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,55.008,3,0.2,17.19
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,35.232,3,0.2,11.4504
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,166.72,2,0.0,41.68
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,24.816,3,0.2,8.3754
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,124.36,2,0.0,27.3592
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Appliances,32.67,3,0.0,8.4942
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,146.688,6,0.2,55.008
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,276.784,2,0.2,89.9548
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,25.32,5,0.2,9.1785
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,318.96,9,0.0,149.9112
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,212.64,6,0.0,99.9408
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,25.98,2,0.0,0.7794
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,3.28,2,0.0,1.476
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,459.88,4,0.0,13.7964
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Supplies,7.76,2,0.0,2.2504
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,71.96,2,0.0,17.99
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Supplies,54.9,5,0.0,15.372
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,9.28,2,0.2,3.248
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,17.94,3,0.0,8.7906
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,10.02,3,0.0,4.4088
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Paper,144.12,3,0.0,69.1776
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Paper,92.94,3,0.0,41.823
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Appliances,52.56,3,0.0,18.396
+Second Class,Corporate,United States,Troy,New York,12180,East,Office Supplies,Envelopes,247.84,8,0.0,121.4416
+Second Class,Corporate,United States,Troy,New York,12180,East,Office Supplies,Binders,9.912,3,0.2,3.3453
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,145.764,2,0.1,3.2392
+Standard Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,11.96,2,0.0,3.1096
+Standard Class,Home Office,United States,New York City,New York,10035,East,Technology,Phones,138.0,2,0.0,34.5
+Same Day,Corporate,United States,Rochester,New York,14609,East,Furniture,Furnishings,756.8,5,0.0,75.68
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,6.08,2,0.0,2.0672
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,137.94,3,0.0,35.8644
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,113.6,8,0.0,44.304
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,12.96,2,0.0,6.3504
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,69.456,2,0.2,22.5732
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Fasteners,14.13,3,0.0,0.7065
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,43.92,3,0.0,12.7368
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,142.182,1,0.4,-37.9152
+Second Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,979.95,5,0.0,264.5865
+Second Class,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,135.3,5,0.0,37.884
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,41.96,2,0.0,10.9096
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Labels,9.45,3,0.0,4.536
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,843.9,2,0.0,371.316
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,449.568,2,0.2,56.196
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Chairs,192.186,3,0.1,36.3018
+First Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,5.76,2,0.0,1.6128
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,191.88,6,0.0,19.188
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,313.176,2,0.4,-120.0508
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Chairs,866.646,3,0.1,173.3292
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Supplies,70.12,4,0.0,21.036
+First Class,Consumer,United States,New York City,New York,10011,East,Technology,Accessories,99.98,2,0.0,7.9984
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,14.94,3,0.0,7.0218
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,14.56,2,0.0,6.2608
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Binders,18.464,4,0.2,6.924
+Same Day,Consumer,United States,Utica,New York,13501,East,Technology,Phones,119.94,6,0.0,5.997
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Envelopes,34.74,3,0.0,17.37
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,833.94,6,0.0,216.8244
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,12.96,3,0.2,4.536
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,25.92,4,0.0,12.4416
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Appliances,533.94,3,0.0,154.8426
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Paper,167.94,3,0.0,82.2906
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Furniture,Furnishings,31.68,6,0.0,9.8208
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Chairs,127.764,2,0.1,2.8392
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,14.91,3,0.0,4.6221
+Standard Class,Consumer,United States,Watertown,New York,13601,East,Office Supplies,Paper,18.54,2,0.0,8.7138
+Standard Class,Consumer,United States,Watertown,New York,13601,East,Office Supplies,Binders,679.96,5,0.2,220.987
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Binders,26.424,9,0.2,9.5787
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Technology,Phones,625.99,1,0.0,187.797
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,59.52,3,0.0,15.4752
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Envelopes,17.48,2,0.0,8.2156
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,13.168,2,0.2,4.6088
+Second Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Art,17.52,3,0.0,6.3072
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,70.368,4,0.2,26.388
+Second Class,Home Office,United States,Long Beach,New York,11561,East,Office Supplies,Fasteners,7.56,6,0.0,0.3024
+Second Class,Corporate,United States,Buffalo,New York,14215,East,Technology,Phones,43.6,4,0.0,12.208
+Second Class,Corporate,United States,Buffalo,New York,14215,East,Furniture,Furnishings,154.95,3,0.0,30.99
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Labels,25.06,2,0.0,11.7782
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Envelopes,47.01,3,0.0,22.0947
+First Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,469.99,1,0.0,136.2971
+First Class,Corporate,United States,New York City,New York,10035,East,Furniture,Chairs,207.846,3,0.1,2.3094
+Standard Class,Corporate,United States,Rome,New York,13440,East,Furniture,Chairs,90.882,1,0.1,15.147
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Appliances,45.96,2,0.0,13.788
+First Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,25.584,2,0.2,8.9544
+First Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,464.0,5,0.0,134.56
+First Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Appliances,235.95,3,0.0,77.8635
+First Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,39.96,4,0.0,17.982
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Binders,13.92,3,0.2,4.35
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Machines,3404.5,5,0.0,1668.205
+Standard Class,Home Office,United States,New York City,New York,10024,East,Technology,Accessories,101.34,3,0.0,8.1072
+Second Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,2.97,3,0.0,1.3365
+Second Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,569.99,1,0.0,170.997
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,50.97,3,0.0,9.1746
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Art,59.52,3,0.0,17.856
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,5.984,2,0.2,2.244
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,861.76,4,0.0,249.9104
+Second Class,Consumer,United States,Long Beach,New York,11561,East,Technology,Phones,89.95,5,0.0,43.176
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,663.92,5,0.2,207.475
+Same Day,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,120.0,8,0.0,13.2
+Same Day,Consumer,United States,New York City,New York,10009,East,Office Supplies,Fasteners,3.29,1,0.0,1.4805
+Same Day,Consumer,United States,New York City,New York,10009,East,Furniture,Furnishings,18.84,3,0.0,6.0288
+Second Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,210.68,2,0.0,50.5632
+Second Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Storage,78.8,1,0.0,1.576
+Second Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,19.99,1,0.0,6.7966
+Second Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Storage,772.68,4,0.0,108.1752
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Appliances,393.25,5,0.0,129.7725
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Appliances,706.86,7,0.0,197.9208
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,17.94,3,0.0,4.485
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Paper,61.4,5,0.0,28.858
+Standard Class,Corporate,United States,Long Beach,New York,11561,East,Office Supplies,Binders,24.448,2,0.2,8.8624
+First Class,Consumer,United States,Rochester,New York,14609,East,Technology,Phones,263.96,4,0.0,71.2692
+First Class,Consumer,United States,Rochester,New York,14609,East,Technology,Phones,359.97,3,0.0,100.7916
+First Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Paper,12.96,2,0.0,6.2208
+First Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Storage,116.82,3,0.0,5.841
+First Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Binders,276.784,2,0.2,89.9548
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Binders,134.272,8,0.2,46.9952
+Second Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,109.9,5,0.0,32.97
+Standard Class,Home Office,United States,New York City,New York,10035,East,Furniture,Furnishings,56.52,9,0.0,21.4776
+Second Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Appliances,293.52,6,0.0,76.3152
+Second Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,307.98,2,0.0,89.3142
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Storage,128.34,6,0.0,37.2186
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Paper,62.82,9,0.0,29.5254
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,38.88,6,0.0,18.6624
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Furnishings,187.76,4,0.0,76.9816
+Same Day,Corporate,United States,New York City,New York,10024,East,Office Supplies,Storage,67.15,5,0.0,16.7875
+Same Day,Corporate,United States,New York City,New York,10024,East,Technology,Phones,549.98,2,0.0,142.9948
+Same Day,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,11.82,3,0.0,4.728
+Same Day,Corporate,United States,New York City,New York,10024,East,Technology,Machines,4643.8,4,0.0,2229.024
+Same Day,Corporate,United States,New York City,New York,10024,East,Furniture,Chairs,577.764,2,0.1,115.5528
+Second Class,Home Office,United States,Troy,New York,12180,East,Furniture,Furnishings,82.64,2,0.0,7.4376
+Second Class,Home Office,United States,Troy,New York,12180,East,Office Supplies,Storage,31.02,2,0.0,8.0652
+Second Class,Home Office,United States,Troy,New York,12180,East,Technology,Accessories,89.97,3,0.0,37.7874
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,23.744,2,0.2,8.3104
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Accessories,357.0,3,0.0,57.12
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Appliances,122.94,3,0.0,30.735
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,35.448,7,0.2,12.8499
+Standard Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,2563.056,8,0.1,313.2624
+Standard Class,Corporate,United States,Mount Vernon,New York,10550,East,Office Supplies,Storage,1085.42,7,0.0,282.2092
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,299.9,2,0.0,74.975
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Storage,11.21,1,0.0,3.363
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Appliances,8.74,2,0.0,2.2724
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Paper,44.75,5,0.0,20.585
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,7.88,4,0.0,2.5216
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,232.4,5,0.2,78.435
+Second Class,Consumer,United States,New York City,New York,10009,East,Furniture,Chairs,164.646,3,0.1,12.8058
+Second Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Paper,22.68,2,0.0,11.1132
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,17.94,3,0.0,3.0498
+Same Day,Corporate,United States,New York City,New York,10024,East,Technology,Machines,1035.8,4,0.0,269.308
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Labels,20.7,2,0.0,9.936
+Second Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Art,59.52,3,0.0,15.4752
+Second Class,Consumer,United States,Yonkers,New York,10701,East,Technology,Accessories,479.97,3,0.0,177.5889
+Second Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Supplies,18.62,2,0.0,5.3998
+Second Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Binders,49.632,6,0.2,16.7508
+Second Class,Consumer,United States,Yonkers,New York,10701,East,Office Supplies,Paper,97.82,2,0.0,45.9754
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,25.584,2,0.2,8.9544
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Art,3.64,2,0.0,0.9828
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,199.98,2,0.0,83.9916
+Standard Class,Corporate,United States,Hempstead,New York,11550,East,Office Supplies,Binders,968.744,7,0.2,314.8418
+Standard Class,Corporate,United States,Hempstead,New York,11550,East,Office Supplies,Binders,222.352,13,0.2,77.8232
+Standard Class,Corporate,United States,Hempstead,New York,11550,East,Technology,Copiers,479.984,2,0.2,89.997
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,24.56,2,0.0,11.5432
+First Class,Corporate,United States,Hempstead,New York,11550,East,Office Supplies,Envelopes,7.98,3,0.0,3.9102
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,56.96,2,0.0,21.0752
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Appliances,15.56,4,0.0,4.0456
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Bookcases,353.568,2,0.2,-44.196
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,13.96,2,0.0,6.7008
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Storage,65.12,4,0.0,16.9312
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Storage,70.26,3,0.0,18.9702
+Standard Class,Corporate,United States,New York City,New York,10011,East,Technology,Accessories,90.0,5,0.0,16.2
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,6.096,2,0.2,2.0574
+Standard Class,Corporate,United States,New York City,New York,10011,East,Furniture,Tables,481.176,2,0.4,-120.294
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Fasteners,7.24,4,0.0,2.3892
+Second Class,Corporate,United States,Watertown,New York,13601,East,Office Supplies,Storage,96.36,6,0.0,25.0536
+Standard Class,Home Office,United States,New York City,New York,10009,East,Furniture,Chairs,172.764,2,0.1,13.4372
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Art,3.52,2,0.0,1.6896
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Storage,64.96,4,0.0,9.744
+First Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,3050.376,3,0.2,1143.891
+First Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,133.98,2,0.0,33.495
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Appliances,26.88,6,0.0,6.72
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Binders,10.896,2,0.2,3.8136
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Bookcases,287.976,3,0.2,7.1994
+First Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,34.77,3,0.0,11.4741
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Labels,18.9,3,0.0,8.694
+Standard Class,Corporate,United States,Utica,New York,13501,East,Furniture,Furnishings,40.48,2,0.0,14.5728
+Standard Class,Consumer,United States,Rochester,New York,14609,East,Office Supplies,Binders,1217.568,2,0.2,456.588
+Second Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Paper,123.92,4,0.0,55.764
+Same Day,Home Office,United States,New York City,New York,10009,East,Office Supplies,Labels,30.53,1,0.0,14.0438
+Same Day,Home Office,United States,New York City,New York,10009,East,Technology,Accessories,30.84,3,0.0,6.168
+Same Day,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,75.06,9,0.0,33.777
+Standard Class,Corporate,United States,Jamestown,New York,14701,East,Technology,Accessories,159.98,2,0.0,57.5928
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Chairs,271.764,2,0.1,60.392
+First Class,Corporate,United States,New York City,New York,10011,East,Furniture,Furnishings,135.8,7,0.0,66.542
+First Class,Consumer,United States,New York City,New York,10024,East,Furniture,Chairs,117.882,1,0.1,1.3098
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,20.97,3,0.0,9.0171
+Standard Class,Corporate,United States,New York City,New York,10035,East,Technology,Accessories,139.96,4,0.0,9.7972
+Standard Class,Corporate,United States,New York City,New York,10035,East,Furniture,Furnishings,37.74,3,0.0,12.8316
+Standard Class,Consumer,United States,New Rochelle,New York,10801,East,Office Supplies,Binders,13.904,2,0.2,4.5188
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,25.92,4,0.0,12.4416
+First Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Storage,22.58,2,0.0,5.8708
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Art,66.03,3,0.0,17.1678
+First Class,Home Office,United States,New York City,New York,10011,East,Furniture,Chairs,2621.322,11,0.1,553.3902
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Fasteners,36.48,6,0.0,18.24
+First Class,Corporate,United States,New York City,New York,10011,East,Technology,Phones,43.6,4,0.0,12.208
+Standard Class,Consumer,United States,New York City,New York,10035,East,Technology,Phones,13.98,2,0.0,3.9144
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,23.65,1,0.0,6.149
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Binders,28.752,3,0.2,10.0632
+Standard Class,Corporate,United States,New York City,New York,10011,East,Office Supplies,Art,114.95,5,0.0,32.186
+Standard Class,Consumer,United States,New York City,New York,10009,East,Office Supplies,Binders,3.64,1,0.2,1.365
+Standard Class,Consumer,United States,New York City,New York,10009,East,Technology,Phones,881.93,7,0.0,220.4825
+Same Day,Consumer,United States,Freeport,New York,11520,East,Furniture,Chairs,102.582,1,0.1,6.8388
+Same Day,Consumer,United States,Freeport,New York,11520,East,Office Supplies,Paper,20.04,3,0.0,9.6192
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,32.088,7,0.2,11.2308
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,4305.552,6,0.2,1453.1238
+Standard Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,10.02,3,0.0,4.4088
+Standard Class,Corporate,United States,New York City,New York,10024,East,Technology,Phones,631.96,4,0.0,303.3408
+Standard Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,146.688,8,0.2,45.84
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,13.36,2,0.0,6.4128
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Chairs,163.764,2,0.1,25.4744
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,183.92,4,0.0,31.2664
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Envelopes,15.56,2,0.0,7.3132
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Binders,43.12,5,0.2,15.092
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Tables,313.722,3,0.4,-99.3453
+Second Class,Corporate,United States,New York City,New York,10024,East,Furniture,Furnishings,45.98,1,0.0,7.8166
+Second Class,Corporate,United States,New York City,New York,10024,East,Office Supplies,Storage,428.68,7,0.0,0.0
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Binders,68.48,2,0.2,25.68
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Storage,1676.88,6,0.0,83.844
+Standard Class,Home Office,United States,New York City,New York,10009,East,Office Supplies,Paper,25.92,4,0.0,12.4416
+First Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,629.95,5,0.0,157.4875
+First Class,Consumer,United States,New York City,New York,10011,East,Furniture,Chairs,631.782,2,0.1,140.396
+First Class,Consumer,United States,New York City,New York,10011,East,Furniture,Bookcases,801.568,2,0.2,-10.0196
+First Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Labels,75.18,6,0.0,35.3346
+First Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Appliances,30.98,1,0.0,8.0548
+First Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,1349.91,9,0.0,661.4559
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,209.148,2,0.4,-66.2302
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Storage,1591.02,6,0.0,286.3836
+Second Class,Consumer,United States,New York City,New York,10035,East,Technology,Accessories,1071.0,9,0.0,171.36
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,12.07,1,0.0,3.9831
+Second Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,3785.292,6,0.1,420.588
+Standard Class,Corporate,United States,Buffalo,New York,14215,East,Furniture,Furnishings,199.9,5,0.0,39.98
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Paper,14.62,2,0.0,6.7252
+Second Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,34.44,3,0.0,17.22
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,164.688,6,0.2,55.5822
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Tables,166.5,2,0.4,-66.6
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,12.96,2,0.0,6.2208
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,110.96,2,0.0,53.2608
+Second Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,99.98,2,0.0,3.9992
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,11.424,1,0.2,3.7128
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Chairs,128.124,2,0.1,24.2012
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,101.4,5,0.0,38.532
+Standard Class,Consumer,United States,Rome,New York,13440,East,Office Supplies,Art,32.13,9,0.0,8.3538
+Standard Class,Consumer,United States,Rome,New York,13440,East,Office Supplies,Art,2.88,1,0.0,0.8064
+Standard Class,Corporate,United States,New York City,New York,10009,East,Technology,Phones,1091.93,7,0.0,272.9825
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,111.96,2,0.0,54.8604
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Art,38.34,9,0.0,15.7194
+Standard Class,Consumer,United States,New York City,New York,10011,East,Furniture,Chairs,427.644,14,0.1,80.7772
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Fasteners,40.67,7,0.0,12.6077
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Storage,33.48,2,0.0,1.3392
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,9.728,2,0.2,3.2832
+First Class,Home Office,United States,New York City,New York,10035,East,Technology,Phones,1079.85,3,0.0,323.955
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Storage,70.98,1,0.0,3.549
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,29.95,5,0.0,8.6855
+First Class,Home Office,United States,New York City,New York,10035,East,Furniture,Chairs,589.41,5,0.1,-6.549
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Bookcases,400.784,1,0.2,-5.0098
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,8.56,2,0.0,3.852
+Standard Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,11.56,2,0.0,5.6644
+Standard Class,Corporate,United States,Rochester,New York,14609,East,Furniture,Tables,376.866,3,0.4,-213.5574
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,21.6,6,0.0,9.936
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Labels,11.07,3,0.0,5.2029
+Standard Class,Consumer,United States,New York City,New York,10011,East,Office Supplies,Binders,7.152,3,0.2,2.3244
+Standard Class,Consumer,United States,New York City,New York,10011,East,Technology,Phones,179.7,6,0.0,88.053
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Furnishings,97.44,3,0.0,35.0784
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Binders,3.984,1,0.2,1.3944
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Art,13.04,4,0.0,5.7376
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,579.528,4,0.1,83.7096
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,6.99,3,0.0,2.0271
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Supplies,6.84,1,0.0,1.8468
+First Class,Home Office,United States,New York City,New York,10035,East,Office Supplies,Art,7.04,4,0.0,2.0416
+Standard Class,Consumer,United States,New York City,New York,10024,East,Furniture,Chairs,326.646,3,0.1,39.9234
+Standard Class,Consumer,United States,New York City,New York,10024,East,Technology,Accessories,89.97,3,0.0,39.5868
+Standard Class,Home Office,United States,New York City,New York,10011,East,Office Supplies,Binders,296.712,13,0.2,100.1403
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Technology,Phones,437.85,3,0.0,131.355
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Binders,673.568,2,0.2,252.588
+Second Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Binders,3.328,2,0.2,1.2064
+Second Class,Consumer,United States,New York City,New York,10024,East,Technology,Phones,135.99,1,0.0,36.7173
+Second Class,Consumer,United States,New York City,New York,10024,East,Furniture,Furnishings,7.38,1,0.0,2.1402
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Storage,129.3,2,0.0,6.465
+Standard Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,11.568,3,0.2,3.7596
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,12.56,2,0.0,4.0192
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Binders,90.48,3,0.2,33.93
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Paper,13.08,2,0.0,6.0168
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,214.7,5,0.0,83.733
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Storage,1085.42,7,0.0,282.2092
+Second Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Appliances,13.11,3,0.0,3.4086
+Standard Class,Home Office,United States,New York City,New York,10024,East,Office Supplies,Paper,6.48,1,0.0,3.1104
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Supplies,6.36,2,0.0,0.0636
+Standard Class,Consumer,United States,New York City,New York,10035,East,Furniture,Chairs,573.174,7,0.1,63.686
+First Class,Consumer,United States,New York City,New York,10024,East,Office Supplies,Paper,9.96,2,0.0,4.6812
+Standard Class,Consumer,United States,Utica,New York,13501,East,Technology,Accessories,79.99,1,0.0,28.7964
+Standard Class,Consumer,United States,New York City,New York,10035,East,Office Supplies,Envelopes,39.98,1,0.0,17.991
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,49.848,3,0.2,16.8237
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Envelopes,23.99,1,0.0,11.995
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Binders,1087.936,8,0.2,353.5792
+First Class,Corporate,United States,New York City,New York,10035,East,Technology,Phones,199.98,2,0.0,53.9946
+First Class,Corporate,United States,New York City,New York,10035,East,Office Supplies,Storage,83.92,4,0.0,20.1408
+First Class,Consumer,United States,Niagara Falls,New York,14304,East,Technology,Phones,164.85,3,0.0,47.8065
+Standard Class,Corporate,United States,New York City,New York,10009,East,Furniture,Furnishings,60.35,5,0.0,19.9155
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Supplies,35.52,4,0.0,9.9456
+Standard Class,Corporate,United States,New York City,New York,10009,East,Office Supplies,Art,11.2,7,0.0,4.816
+Standard Class,Home Office,United States,New Rochelle,New York,10801,East,Office Supplies,Paper,46.35,5,0.0,21.7845
+Standard Class,Home Office,United States,New Rochelle,New York,10801,East,Office Supplies,Paper,223.92,4,0.0,109.7208
+Standard Class,Home Office,United States,New Rochelle,New York,10801,East,Office Supplies,Supplies,7.3,2,0.0,2.19
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Labels,31.5,10,0.0,15.12
+Standard Class,Consumer,United States,Long Beach,New York,11561,East,Office Supplies,Supplies,55.6,4,0.0,16.124
